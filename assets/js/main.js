@@ -194,7 +194,13 @@
 							$menu._hide();
 
 				});
-
-	});
+			$( "#menu li > a" ).hover(
+  function() {
+    $( this ).css("font-size", "1.2em");
+  }, function() {
+    $( this ).css("font-size", "1em");
+  }
+);
+			});
 
 })(jQuery);
