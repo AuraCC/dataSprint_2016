@@ -2579,6 +2579,10 @@
 			pointer-events: none;
 			opacity: 0.25;
 		}
+		
+		.featherlight-close-icon featherlight-close {
+			border: 0px solid black !important;
+		}
 
 /* Tiles */
 
