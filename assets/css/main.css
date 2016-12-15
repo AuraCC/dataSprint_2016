@@ -2362,8 +2362,8 @@
 			}
 			
 			.image.fit:hover {	
-				box-shadow: 0 0 3px #515151;
-				transform: scale(1.1);
+				box-shadow: 0 0 2px #515151;
+				transform: scale(1.02);
 			}
 
 		.image.main {
