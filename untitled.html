@@ -1,0 +1,45 @@
+<section>
+	<h1>Comparaison de deux graphes GEXF</h1>
+	<div class="row uniform">
+		<div class="6u">
+		<div class="graph" style="border : 1px solid black; height : 600px" id="sigma-container" data-featherlight=".graph"></div>
+
+		<script src="assets/build/sigma.js"></script>
+		<script src="assets/build/plugins/sigma.parsers.gexf.min.js"></script>
+		<script>
+		  sigma.parsers.gexf(
+		    'assets/graph/test.gexf',
+		    { // Here is the ID of the DOM element that
+		      // will contain the graph:
+		      container: 'sigma-container'
+		    },
+		    function(s) {
+		      // This function will be executed when the
+		      // graph is displayed, with "s" the related
+		      // sigma instance.
+		    }
+		  );
+		</script>
+		</div>
+		<div class="6u$">
+		<div style="border : 1px solid black; height : 600px" id="sigma-container-2"></div>
+
+		<script src="assets/build/sigma.js"></script>
+		<script src="assets/build/plugins/sigma.parsers.gexf.min.js"></script>
+		<script>
+		  sigma.parsers.gexf(
+		    'assets/graph/test.gexf',
+		    { // Here is the ID of the DOM element that
+		      // will contain the graph:
+		      container: 'sigma-container-2'
+		    },
+		    function(s) {
+		      // This function will be executed when the
+		      // graph is displayed, with "s" the related
+		      // sigma instance.
+		    }
+		  );
+		</script>
+		</div>
+	</div>
+</section>
