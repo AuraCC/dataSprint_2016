@@ -2374,13 +2374,8 @@
 		
 		.galerie {
 		    margin: 5px;
-		    border: 1px solid #ccc;
 		    float: left;
 		    width: 180px;
-		}
-
-		.galerie:hover {
-		    border: 1px solid #777;
 		}
 
 		.galerie img {
@@ -2392,9 +2387,8 @@
 		    padding: 15px;
 		    text-align: center;
 		}
-		
-		.galerie:after {
-			clear:both;
+		#gal:after {
+			clear: both;
 		}
 
 			.image.main img {
