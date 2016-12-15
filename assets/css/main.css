@@ -2357,6 +2357,13 @@
 
 			.image.fit img {
 				width: 100%;
+				box-shadow: none;
+			    transition: box-shadow 1s;		
+			}
+			
+			.image.fit:hover {	
+				box-shadow: 0 0 3px #515151;
+				transform: scale(1.1);
 			}
 
 		.image.main {
