@@ -1,0 +1,3241 @@
+<gexf xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.1draft" xmlns:ns0="xsi" version="1.1" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.1draft.xsd">
+  <meta lastmodified="2016-12-16T00:20:05.769039">
+    <creator>CorText</creator>
+    <description>hn-cop-22-politique306_327top150-ISItermslistecop22defdef-ISItermslistecop22defdef-distributionalcooc-99999-oT0.33-4-louTrue</description>
+  </meta>
+  <graph defaultedgetype="undirected" label="hn-cop-22-politique306_327top150-ISItermslistecop22defdef-ISItermslistecop22defdef-distributionalcooc-99999-oT0.33-4-louTrue" mode="static">
+    <attributes class="node" mode="dynamic"/>
+    <attributes class="node" mode="static">
+      <attribute id="weight" title="weight" type="float">
+        <default></default>
+      </attribute>
+      <attribute id="color" title="color" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="period" title="period" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="community" title="community" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="shape" title="shape" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="size" title="size" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="category" title="category" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="label" title="label" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="in-degree" title="in-degree" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="betweeness" title="betweeness" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="community_orphan" title="community_orphan" type="integer">
+        <default></default>
+      </attribute>
+      <attribute id="cluster_universal_index" title="cluster_universal_index" type="integer">
+        <default></default>
+      </attribute>
+      <attribute id="cluster_label" title="cluster_label" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="a" title="a" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="b" title="b" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="g" title="g" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="level" title="level" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="cluster_index" title="cluster_index" type="integer">
+        <default></default>
+      </attribute>
+      <attribute id="r" title="r" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="out-degree" title="out-degree" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="y" title="y" type="float">
+        <default></default>
+      </attribute>
+      <attribute id="x" title="x" type="float">
+        <default></default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="dynamic"/>
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="level_edge" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="1" title="dest_edge" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="2" title="source_edge" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="3" title="weight_edge" type="float">
+        <default></default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="1" label="monde entier">
+        <attvalues>
+          <attvalue for="weight" value="143.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.72405762151"/>
+          <attvalue for="betweeness" value="0.107393162393"/>
+          <attvalue for="community_orphan" value="5"/>
+          <attvalue for="cluster_universal_index" value="3"/>
+          <attvalue for="cluster_label" value="Commission européenne &amp; pétrole et du gaz"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="0"/>
+          <attvalue for="out-degree" value="0.806596909413"/>
+        </attvalues>
+        <viz:color r="102" g="255" b="0" a="1.0"/>
+        <viz:position x="614.079446615" y="599.790030669" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.64446670005"/>
+      </node>
+      <node id="2" label="urgence climatique">
+        <attvalues>
+          <attvalue for="weight" value="93.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.13251788793"/>
+          <attvalue for="betweeness" value="0.0202175602176"/>
+          <attvalue for="community_orphan" value="7"/>
+          <attvalue for="cluster_universal_index" value="4"/>
+          <attvalue for="cluster_label" value="gaz à effet de serre &amp; accord de Paris"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="1"/>
+          <attvalue for="out-degree" value="1.8859181893"/>
+        </attvalues>
+        <viz:color r="235" g="0" b="0" a="1.0"/>
+        <viz:position x="625.703586614" y="960.332601833" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.41912869304"/>
+      </node>
+      <node id="3" label="pétrole et du gaz">
+        <attvalues>
+          <attvalue for="weight" value="112.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.42153036525"/>
+          <attvalue for="betweeness" value="0.0186013986014"/>
+          <attvalue for="community_orphan" value="5"/>
+          <attvalue for="cluster_universal_index" value="3"/>
+          <attvalue for="cluster_label" value="Commission européenne &amp; pétrole et du gaz"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="0"/>
+          <attvalue for="out-degree" value="1.60793465232"/>
+        </attvalues>
+        <viz:color r="102" g="255" b="0" a="1.0"/>
+        <viz:position x="520.393118541" y="494.414455709" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.5047571357"/>
+      </node>
+      <node id="4" label="Assemblée nationale">
+        <attvalues>
+          <attvalue for="weight" value="130.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="0.356132694355"/>
+          <attvalue for="betweeness" value="0.0773892773893"/>
+          <attvalue for="community_orphan" value="5"/>
+          <attvalue for="cluster_universal_index" value="3"/>
+          <attvalue for="cluster_label" value="Commission européenne &amp; pétrole et du gaz"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="0"/>
+          <attvalue for="out-degree" value="1.20794063613"/>
+        </attvalues>
+        <viz:color r="102" g="255" b="0" a="1.0"/>
+        <viz:position x="485.722790587" y="379.211153486" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.58587881823"/>
+      </node>
+      <node id="5" label="Premier ministre">
+        <attvalues>
+          <attvalue for="weight" value="305.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.48894136767"/>
+          <attvalue for="betweeness" value="0.0039627039627"/>
+          <attvalue for="community_orphan" value="5"/>
+          <attvalue for="cluster_universal_index" value="3"/>
+          <attvalue for="cluster_label" value="Commission européenne &amp; pétrole et du gaz"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="0"/>
+          <attvalue for="out-degree" value="0.53535695411"/>
+        </attvalues>
+        <viz:color r="102" g="255" b="0" a="1.0"/>
+        <viz:position x="555.84247258" y="359.353638087" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.37456184276"/>
+      </node>
+      <node id="6" label="réduction des émissions">
+        <attvalues>
+          <attvalue for="weight" value="119.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.8719556906"/>
+          <attvalue for="betweeness" value="0.0311227661228"/>
+          <attvalue for="community_orphan" value="7"/>
+          <attvalue for="cluster_universal_index" value="4"/>
+          <attvalue for="cluster_label" value="gaz à effet de serre &amp; accord de Paris"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="1"/>
+          <attvalue for="out-degree" value="3.02893945424"/>
+        </attvalues>
+        <viz:color r="235" g="0" b="0" a="1.0"/>
+        <viz:position x="723.648773548" y="900.019232423" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.53630445669"/>
+      </node>
+      <node id="7" label="Nicolas Sarkozy">
+        <attvalues>
+          <attvalue for="weight" value="379.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.78172061113"/>
+          <attvalue for="betweeness" value="0.0041958041958"/>
+          <attvalue for="community_orphan" value="3"/>
+          <attvalue for="cluster_universal_index" value="5"/>
+          <attvalue for="cluster_label" value="second tour &amp; premier tour"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="2"/>
+          <attvalue for="out-degree" value="6.29002637088"/>
+        </attvalues>
+        <viz:color r="0" g="170" b="151" a="1.0"/>
+        <viz:position x="881.274378177" y="202.809482852" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.70806209314"/>
+      </node>
+      <node id="8" label="ressources naturelles">
+        <attvalues>
+          <attvalue for="weight" value="108.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.14839055747"/>
+          <attvalue for="betweeness" value="0.0502602952603"/>
+          <attvalue for="community_orphan" value="5"/>
+          <attvalue for="cluster_universal_index" value="3"/>
+          <attvalue for="cluster_label" value="Commission européenne &amp; pétrole et du gaz"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="0"/>
+          <attvalue for="out-degree" value="0.859251531759"/>
+        </attvalues>
+        <viz:color r="102" g="255" b="0" a="1.0"/>
+        <viz:position x="521.233877602" y="579.504244064" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.48673009514"/>
+      </node>
+      <node id="9" label="réchauffement climatique">
+        <attvalues>
+          <attvalue for="weight" value="642.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.04590228584"/>
+          <attvalue for="betweeness" value="0.00235431235431"/>
+          <attvalue for="community_orphan" value="7"/>
+          <attvalue for="cluster_universal_index" value="4"/>
+          <attvalue for="cluster_label" value="gaz à effet de serre &amp; accord de Paris"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="1"/>
+          <attvalue for="out-degree" value="0.367466867168"/>
+        </attvalues>
+        <viz:color r="235" g="0" b="0" a="1.0"/>
+        <viz:position x="670.807015535" y="919.540457321" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="3.89334001002"/>
+      </node>
+      <node id="10" label="gaz de schiste">
+        <attvalues>
+          <attvalue for="weight" value="60.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="0.904128050331"/>
+          <attvalue for="betweeness" value="0.0"/>
+          <attvalue for="community_orphan" value="5"/>
+          <attvalue for="cluster_universal_index" value="3"/>
+          <attvalue for="cluster_label" value="Commission européenne &amp; pétrole et du gaz"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="0"/>
+          <attvalue for="out-degree" value="0.830378965565"/>
+        </attvalues>
+        <viz:color r="102" g="255" b="0" a="1.0"/>
+        <viz:position x="418.133442253" y="427.088524392" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.27040560841"/>
+      </node>
+      <node id="11" label="président français">
+        <attvalues>
+          <attvalue for="weight" value="321.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.78401074002"/>
+          <attvalue for="betweeness" value="0.0220318570319"/>
+          <attvalue for="community_orphan" value="6"/>
+          <attvalue for="cluster_universal_index" value="1"/>
+          <attvalue for="cluster_label" value="président Trump &amp; président français"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="5"/>
+          <attvalue for="out-degree" value="2.00814412349"/>
+        </attvalues>
+        <viz:color r="255" g="201" b="0" a="1.0"/>
+        <viz:position x="356.143606076" y="810.167935504" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.44667000501"/>
+      </node>
+      <node id="12" label="Jean-Pierre Bel">
+        <attvalues>
+          <attvalue for="weight" value="179.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.4236706396"/>
+          <attvalue for="betweeness" value="0.04662004662"/>
+          <attvalue for="community_orphan" value="1"/>
+          <attvalue for="cluster_universal_index" value="0"/>
+          <attvalue for="cluster_label" value="Raúl Castro &amp; América Latina"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="4"/>
+          <attvalue for="out-degree" value="1.63853234741"/>
+        </attvalues>
+        <viz:color r="66" g="0" b="161" a="1.0"/>
+        <viz:position x="252.713840307" y="107.872934737" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.8067100651"/>
+      </node>
+      <node id="13" label="premier tour">
+        <attvalues>
+          <attvalue for="weight" value="207.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="3.02002644937"/>
+          <attvalue for="betweeness" value="0.00369075369075"/>
+          <attvalue for="community_orphan" value="3"/>
+          <attvalue for="cluster_universal_index" value="5"/>
+          <attvalue for="cluster_label" value="second tour &amp; premier tour"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="2"/>
+          <attvalue for="out-degree" value="7.310773839"/>
+        </attvalues>
+        <viz:color r="0" g="170" b="151" a="1.0"/>
+        <viz:position x="929.366638101" y="143.393482639" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.93289934902"/>
+      </node>
+      <node id="14" label="mise en place">
+        <attvalues>
+          <attvalue for="weight" value="104.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="0.335847220777"/>
+          <attvalue for="betweeness" value="0.0"/>
+          <attvalue for="community_orphan" value="5"/>
+          <attvalue for="cluster_universal_index" value="3"/>
+          <attvalue for="cluster_label" value="Commission européenne &amp; pétrole et du gaz"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="0"/>
+          <attvalue for="out-degree" value="0.400524793153"/>
+        </attvalues>
+        <viz:color r="102" g="255" b="0" a="1.0"/>
+        <viz:position x="425.823730329" y="454.030794283" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.46870305458"/>
+      </node>
+      <node id="15" label="Nathalie Kosciusko-Morizet">
+        <attvalues>
+          <attvalue for="weight" value="81.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="3.31112211131"/>
+          <attvalue for="betweeness" value="0.0"/>
+          <attvalue for="community_orphan" value="3"/>
+          <attvalue for="cluster_universal_index" value="5"/>
+          <attvalue for="cluster_label" value="second tour &amp; premier tour"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="2"/>
+          <attvalue for="out-degree" value="0.0"/>
+        </attvalues>
+        <viz:color r="0" g="170" b="151" a="1.0"/>
+        <viz:position x="993.56791409" y="163.052026158" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.36504757136"/>
+      </node>
+      <node id="16" label="pétrole de schiste">
+        <attvalues>
+          <attvalue for="weight" value="85.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.41472563506"/>
+          <attvalue for="betweeness" value="0.0208313908314"/>
+          <attvalue for="community_orphan" value="5"/>
+          <attvalue for="cluster_universal_index" value="3"/>
+          <attvalue for="cluster_label" value="Commission européenne &amp; pétrole et du gaz"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="0"/>
+          <attvalue for="out-degree" value="1.29643694422"/>
+        </attvalues>
+        <viz:color r="102" g="255" b="0" a="1.0"/>
+        <viz:position x="466.968192101" y="407.147988442" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.38307461192"/>
+      </node>
+      <node id="17" label="République française">
+        <attvalues>
+          <attvalue for="weight" value="87.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="0.343063729708"/>
+          <attvalue for="betweeness" value="0.0585081585082"/>
+          <attvalue for="community_orphan" value="5"/>
+          <attvalue for="cluster_universal_index" value="3"/>
+          <attvalue for="cluster_label" value="Commission européenne &amp; pétrole et du gaz"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="0"/>
+          <attvalue for="out-degree" value="1.08002311326"/>
+        </attvalues>
+        <viz:color r="102" g="255" b="0" a="1.0"/>
+        <viz:position x="465.568763185" y="319.06864859" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.3920881322"/>
+      </node>
+      <node id="18" label="transition énergétique">
+        <attvalues>
+          <attvalue for="weight" value="256.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.57521695491"/>
+          <attvalue for="betweeness" value="0.0144949494949"/>
+          <attvalue for="community_orphan" value="7"/>
+          <attvalue for="cluster_universal_index" value="4"/>
+          <attvalue for="cluster_label" value="gaz à effet de serre &amp; accord de Paris"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="1"/>
+          <attvalue for="out-degree" value="1.42588104632"/>
+        </attvalues>
+        <viz:color r="235" g="0" b="0" a="1.0"/>
+        <viz:position x="722.719113631" y="980.093115563" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.15373059589"/>
+      </node>
+      <node id="19" label="Manuel Valls">
+        <attvalues>
+          <attvalue for="weight" value="246.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.77730399388"/>
+          <attvalue for="betweeness" value="0.0011655011655"/>
+          <attvalue for="community_orphan" value="5"/>
+          <attvalue for="cluster_universal_index" value="3"/>
+          <attvalue for="cluster_label" value="Commission européenne &amp; pétrole et du gaz"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="0"/>
+          <attvalue for="out-degree" value="0.619328322781"/>
+        </attvalues>
+        <viz:color r="102" g="255" b="0" a="1.0"/>
+        <viz:position x="652.518118952" y="316.22016802" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.10866299449"/>
+      </node>
+      <node id="20" label="mise en œuvre">
+        <attvalues>
+          <attvalue for="weight" value="238.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.89434409061"/>
+          <attvalue for="betweeness" value="0.119421134421"/>
+          <attvalue for="community_orphan" value="7"/>
+          <attvalue for="cluster_universal_index" value="4"/>
+          <attvalue for="cluster_label" value="gaz à effet de serre &amp; accord de Paris"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="1"/>
+          <attvalue for="out-degree" value="1.74256026953"/>
+        </attvalues>
+        <viz:color r="235" g="0" b="0" a="1.0"/>
+        <viz:position x="628.743147489" y="812.080501301" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.07260891337"/>
+      </node>
+      <node id="21" label="Salaheddine Mezouar">
+        <attvalues>
+          <attvalue for="weight" value="203.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.93830341659"/>
+          <attvalue for="betweeness" value="0.0253923853924"/>
+          <attvalue for="community_orphan" value="4"/>
+          <attvalue for="cluster_universal_index" value="6"/>
+          <attvalue for="cluster_label" value="haut niveau &amp; Denis Sassou"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="3"/>
+          <attvalue for="out-degree" value="1.80807607115"/>
+        </attvalues>
+        <viz:color r="0" g="188" b="0" a="1.0"/>
+        <viz:position x="615.079298352" y="640.121959615" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.91487230846"/>
+      </node>
+      <node id="22" label="développement durable">
+        <attvalues>
+          <attvalue for="weight" value="402.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.22855694511"/>
+          <attvalue for="betweeness" value="0.148690753691"/>
+          <attvalue for="community_orphan" value="4"/>
+          <attvalue for="cluster_universal_index" value="6"/>
+          <attvalue for="cluster_label" value="haut niveau &amp; Denis Sassou"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="3"/>
+          <attvalue for="out-degree" value="2.85474481417"/>
+        </attvalues>
+        <viz:color r="0" g="188" b="0" a="1.0"/>
+        <viz:position x="881.827273388" y="694.873534496" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.81171757636"/>
+      </node>
+      <node id="23" label="François Mitterrand">
+        <attvalues>
+          <attvalue for="weight" value="208.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.5511159286"/>
+          <attvalue for="betweeness" value="7.77000777001e-05"/>
+          <attvalue for="community_orphan" value="1"/>
+          <attvalue for="cluster_universal_index" value="0"/>
+          <attvalue for="cluster_label" value="Raúl Castro &amp; América Latina"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="4"/>
+          <attvalue for="out-degree" value="0.855301003987"/>
+        </attvalues>
+        <viz:color r="66" g="0" b="161" a="1.0"/>
+        <viz:position x="239.182076295" y="0.0" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.93740610916"/>
+      </node>
+      <node id="24" label="changement climatique">
+        <attvalues>
+          <attvalue for="weight" value="1325.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.88076158883"/>
+          <attvalue for="betweeness" value="0.0216083916084"/>
+          <attvalue for="community_orphan" value="2"/>
+          <attvalue for="cluster_universal_index" value="2"/>
+          <attvalue for="cluster_label" value="Paris Agreement &amp; changement climatique"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="6"/>
+          <attvalue for="out-degree" value="2.33870451135"/>
+        </attvalues>
+        <viz:color r="0" g="119" b="221" a="1.0"/>
+        <viz:position x="51.5379803207" y="647.758630269" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="6.97145718578"/>
+      </node>
+      <node id="25" label="élection de Donald Trump">
+        <attvalues>
+          <attvalue for="weight" value="6.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="0.59444744946"/>
+          <attvalue for="betweeness" value="0.0"/>
+          <attvalue for="community_orphan" value="6"/>
+          <attvalue for="cluster_universal_index" value="1"/>
+          <attvalue for="cluster_label" value="président Trump &amp; président français"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="5"/>
+          <attvalue for="out-degree" value="0.0"/>
+        </attvalues>
+        <viz:color r="255" g="201" b="0" a="1.0"/>
+        <viz:position x="218.495268789" y="857.713833893" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.02704056084"/>
+      </node>
+      <node id="26" label="second tour">
+        <attvalues>
+          <attvalue for="weight" value="107.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="3.02531114456"/>
+          <attvalue for="betweeness" value="0.000369075369075"/>
+          <attvalue for="community_orphan" value="3"/>
+          <attvalue for="cluster_universal_index" value="5"/>
+          <attvalue for="cluster_label" value="second tour &amp; premier tour"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="2"/>
+          <attvalue for="out-degree" value="6.31776574716"/>
+        </attvalues>
+        <viz:color r="0" g="170" b="151" a="1.0"/>
+        <viz:position x="905.092858214" y="103.98949542" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.482223335"/>
+      </node>
+      <node id="27" label="François Fillon">
+        <attvalues>
+          <attvalue for="weight" value="264.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="3.20661122673"/>
+          <attvalue for="betweeness" value="0.0034965034965"/>
+          <attvalue for="community_orphan" value="3"/>
+          <attvalue for="cluster_universal_index" value="5"/>
+          <attvalue for="cluster_label" value="second tour &amp; premier tour"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="2"/>
+          <attvalue for="out-degree" value="5.68318934102"/>
+        </attvalues>
+        <viz:color r="0" g="170" b="151" a="1.0"/>
+        <viz:position x="948.587976457" y="182.54596179" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.18978467702"/>
+      </node>
+      <node id="28" label="gaz à effet">
+        <attvalues>
+          <attvalue for="weight" value="18.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="0.792685498195"/>
+          <attvalue for="betweeness" value="0.0"/>
+          <attvalue for="community_orphan" value="7"/>
+          <attvalue for="cluster_universal_index" value="4"/>
+          <attvalue for="cluster_label" value="gaz à effet de serre &amp; accord de Paris"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="1"/>
+          <attvalue for="out-degree" value="0.0"/>
+        </attvalues>
+        <viz:color r="235" g="0" b="0" a="1.0"/>
+        <viz:position x="769.191490594" y="999.999025721" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.08112168252"/>
+      </node>
+      <node id="29" label="droite et du centre">
+        <attvalues>
+          <attvalue for="weight" value="77.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.59948508081"/>
+          <attvalue for="betweeness" value="0.0002331002331"/>
+          <attvalue for="community_orphan" value="3"/>
+          <attvalue for="cluster_universal_index" value="5"/>
+          <attvalue for="cluster_label" value="second tour &amp; premier tour"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="2"/>
+          <attvalue for="out-degree" value="0.441979761214"/>
+        </attvalues>
+        <viz:color r="0" g="170" b="151" a="1.0"/>
+        <viz:position x="890.014386637" y="63.7996458447" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.3470205308"/>
+      </node>
+      <node id="30" label="EN DÉBAT">
+        <attvalues>
+          <attvalue for="weight" value="43.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.19636652037"/>
+          <attvalue for="betweeness" value="0.0"/>
+          <attvalue for="community_orphan" value="3"/>
+          <attvalue for="cluster_universal_index" value="5"/>
+          <attvalue for="cluster_label" value="second tour &amp; premier tour"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="2"/>
+          <attvalue for="out-degree" value="0.0"/>
+        </attvalues>
+        <viz:color r="0" g="170" b="151" a="1.0"/>
+        <viz:position x="830.082284913" y="43.7542059712" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.19379068603"/>
+      </node>
+      <node id="31" label="président Trump">
+        <attvalues>
+          <attvalue for="weight" value="112.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.09384649626"/>
+          <attvalue for="betweeness" value="0.14627039627"/>
+          <attvalue for="community_orphan" value="6"/>
+          <attvalue for="cluster_universal_index" value="1"/>
+          <attvalue for="cluster_label" value="président Trump &amp; président français"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="5"/>
+          <attvalue for="out-degree" value="1.37634689513"/>
+        </attvalues>
+        <viz:color r="255" g="201" b="0" a="1.0"/>
+        <viz:position x="414.56064608" y="829.694009621" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.5047571357"/>
+      </node>
+      <node id="32" label="América Latina">
+        <attvalues>
+          <attvalue for="weight" value="309.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.74855911307"/>
+          <attvalue for="betweeness" value="0.00656565656566"/>
+          <attvalue for="community_orphan" value="1"/>
+          <attvalue for="cluster_universal_index" value="0"/>
+          <attvalue for="cluster_label" value="Raúl Castro &amp; América Latina"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="4"/>
+          <attvalue for="out-degree" value="2.5909908904"/>
+        </attvalues>
+        <viz:color r="66" g="0" b="161" a="1.0"/>
+        <viz:position x="208.197267655" y="80.3769577123" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.39258888332"/>
+      </node>
+      <node id="33" label="gaz à effet de serre">
+        <attvalues>
+          <attvalue for="weight" value="684.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.45557054112"/>
+          <attvalue for="betweeness" value="0.0210761460761"/>
+          <attvalue for="community_orphan" value="7"/>
+          <attvalue for="cluster_universal_index" value="4"/>
+          <attvalue for="cluster_label" value="gaz à effet de serre &amp; accord de Paris"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="1"/>
+          <attvalue for="out-degree" value="5.05064824709"/>
+        </attvalues>
+        <viz:color r="235" g="0" b="0" a="1.0"/>
+        <viz:position x="657.000441955" y="851.52450029" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="4.0826239359"/>
+      </node>
+      <node id="34" label="Commission européenne">
+        <attvalues>
+          <attvalue for="weight" value="97.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.07064366008"/>
+          <attvalue for="betweeness" value="0.139090909091"/>
+          <attvalue for="community_orphan" value="5"/>
+          <attvalue for="cluster_universal_index" value="3"/>
+          <attvalue for="cluster_label" value="Commission européenne &amp; pétrole et du gaz"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="0"/>
+          <attvalue for="out-degree" value="1.92604143599"/>
+        </attvalues>
+        <viz:color r="102" g="255" b="0" a="1.0"/>
+        <viz:position x="477.358670112" y="474.869077266" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.4371557336"/>
+      </node>
+      <node id="35" label="action climatique">
+        <attvalues>
+          <attvalue for="weight" value="292.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.61481263253"/>
+          <attvalue for="betweeness" value="0.0368104118104"/>
+          <attvalue for="community_orphan" value="2"/>
+          <attvalue for="cluster_universal_index" value="2"/>
+          <attvalue for="cluster_label" value="Paris Agreement &amp; changement climatique"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="6"/>
+          <attvalue for="out-degree" value="1.5087156703"/>
+        </attvalues>
+        <viz:color r="0" g="119" b="221" a="1.0"/>
+        <viz:position x="148.982113601" y="728.55550281" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.31597396094"/>
+      </node>
+      <node id="36" label="Laurence Tubiana">
+        <attvalues>
+          <attvalue for="weight" value="138.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="0.949714163548"/>
+          <attvalue for="betweeness" value="0.00444832944833"/>
+          <attvalue for="community_orphan" value="2"/>
+          <attvalue for="cluster_universal_index" value="2"/>
+          <attvalue for="cluster_label" value="Paris Agreement &amp; changement climatique"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="6"/>
+          <attvalue for="out-degree" value="1.50659950067"/>
+        </attvalues>
+        <viz:color r="0" g="119" b="221" a="1.0"/>
+        <viz:position x="218.258163927" y="636.968374918" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.62193289935"/>
+      </node>
+      <node id="37" label="chefs d'Etat">
+        <attvalues>
+          <attvalue for="weight" value="538.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.46910211365"/>
+          <attvalue for="betweeness" value="0.143896658897"/>
+          <attvalue for="community_orphan" value="4"/>
+          <attvalue for="cluster_universal_index" value="6"/>
+          <attvalue for="cluster_label" value="haut niveau &amp; Denis Sassou"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="3"/>
+          <attvalue for="out-degree" value="2.49149124485"/>
+        </attvalues>
+        <viz:color r="0" g="188" b="0" a="1.0"/>
+        <viz:position x="683.220254515" y="722.53032166" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="3.42463695543"/>
+      </node>
+      <node id="38" label="Raúl Castro">
+        <attvalues>
+          <attvalue for="weight" value="327.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.74055368321"/>
+          <attvalue for="betweeness" value="0.00656565656566"/>
+          <attvalue for="community_orphan" value="1"/>
+          <attvalue for="cluster_universal_index" value="0"/>
+          <attvalue for="cluster_label" value="Raúl Castro &amp; América Latina"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="4"/>
+          <attvalue for="out-degree" value="2.66041953382"/>
+        </attvalues>
+        <viz:color r="66" g="0" b="161" a="1.0"/>
+        <viz:position x="151.307927101" y="60.2901939524" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.47371056585"/>
+      </node>
+      <node id="39" label="Patricia Espinosa">
+        <attvalues>
+          <attvalue for="weight" value="127.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.78314152082"/>
+          <attvalue for="betweeness" value="0.0300699300699"/>
+          <attvalue for="community_orphan" value="2"/>
+          <attvalue for="cluster_universal_index" value="2"/>
+          <attvalue for="cluster_label" value="Paris Agreement &amp; changement climatique"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="6"/>
+          <attvalue for="out-degree" value="2.47835861291"/>
+        </attvalues>
+        <viz:color r="0" g="119" b="221" a="1.0"/>
+        <viz:position x="172.359443107" y="617.033654612" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.57235853781"/>
+      </node>
+      <node id="40" label="novembre dernier">
+        <attvalues>
+          <attvalue for="weight" value="193.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.07307122076"/>
+          <attvalue for="betweeness" value="0.015811965812"/>
+          <attvalue for="community_orphan" value="4"/>
+          <attvalue for="cluster_universal_index" value="6"/>
+          <attvalue for="cluster_label" value="haut niveau &amp; Denis Sassou"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="3"/>
+          <attvalue for="out-degree" value="3.22165546215"/>
+        </attvalues>
+        <viz:color r="0" g="188" b="0" a="1.0"/>
+        <viz:position x="771.108057883" y="655.225782891" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.86980470706"/>
+      </node>
+      <node id="41" label="ancien ministre">
+        <attvalues>
+          <attvalue for="weight" value="87.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.87338512025"/>
+          <attvalue for="betweeness" value="0.0606060606061"/>
+          <attvalue for="community_orphan" value="3"/>
+          <attvalue for="cluster_universal_index" value="5"/>
+          <attvalue for="cluster_label" value="second tour &amp; premier tour"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="2"/>
+          <attvalue for="out-degree" value="0.334187092867"/>
+        </attvalues>
+        <viz:color r="0" g="170" b="151" a="1.0"/>
+        <viz:position x="861.269669288" y="223.128729229" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.3920881322"/>
+      </node>
+      <node id="42" label="Pierre Laurent">
+        <attvalues>
+          <attvalue for="weight" value="28.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.73258414981"/>
+          <attvalue for="betweeness" value="0.0013986013986"/>
+          <attvalue for="community_orphan" value="3"/>
+          <attvalue for="cluster_universal_index" value="5"/>
+          <attvalue for="cluster_label" value="second tour &amp; premier tour"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="2"/>
+          <attvalue for="out-degree" value="0.492443190435"/>
+        </attvalues>
+        <viz:color r="0" g="170" b="151" a="1.0"/>
+        <viz:position x="987.002689894" y="123.509757034" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.12618928393"/>
+      </node>
+      <node id="43" label="feuille de route">
+        <attvalues>
+          <attvalue for="weight" value="123.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.95651780536"/>
+          <attvalue for="betweeness" value="0.0"/>
+          <attvalue for="community_orphan" value="7"/>
+          <attvalue for="cluster_universal_index" value="4"/>
+          <attvalue for="cluster_label" value="gaz à effet de serre &amp; accord de Paris"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="1"/>
+          <attvalue for="out-degree" value="0.0"/>
+        </attvalues>
+        <viz:color r="235" g="0" b="0" a="1.0"/>
+        <viz:position x="584.298290796" y="940.13763861" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.55433149725"/>
+      </node>
+      <node id="44" label="Paris Agreement">
+        <attvalues>
+          <attvalue for="weight" value="360.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.07156175983"/>
+          <attvalue for="betweeness" value="0.00255244755245"/>
+          <attvalue for="community_orphan" value="2"/>
+          <attvalue for="cluster_universal_index" value="2"/>
+          <attvalue for="cluster_label" value="Paris Agreement &amp; changement climatique"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="6"/>
+          <attvalue for="out-degree" value="1.8942706812"/>
+        </attvalues>
+        <viz:color r="0" g="119" b="221" a="1.0"/>
+        <viz:position x="4.90166101897" y="667.533793415" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.62243365048"/>
+      </node>
+      <node id="45" label="accord de Paris">
+        <attvalues>
+          <attvalue for="weight" value="1997.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.00179212391"/>
+          <attvalue for="betweeness" value="0.0815306915307"/>
+          <attvalue for="community_orphan" value="7"/>
+          <attvalue for="cluster_universal_index" value="4"/>
+          <attvalue for="cluster_label" value="gaz à effet de serre &amp; accord de Paris"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="1"/>
+          <attvalue for="out-degree" value="6.49800035424"/>
+        </attvalues>
+        <viz:color r="235" g="0" b="0" a="1.0"/>
+        <viz:position x="603.157844181" y="871.399446049" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="10.0"/>
+      </node>
+      <node id="46" label="affaires étrangères">
+        <attvalues>
+          <attvalue for="weight" value="213.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.28049237835"/>
+          <attvalue for="betweeness" value="0.000221445221445"/>
+          <attvalue for="community_orphan" value="4"/>
+          <attvalue for="cluster_universal_index" value="6"/>
+          <attvalue for="cluster_label" value="haut niveau &amp; Denis Sassou"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="3"/>
+          <attvalue for="out-degree" value="1.66723446853"/>
+        </attvalues>
+        <viz:color r="0" g="188" b="0" a="1.0"/>
+        <viz:position x="804.486608614" y="615.153087488" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.95993990986"/>
+      </node>
+      <node id="47" label="secrétaire général">
+        <attvalues>
+          <attvalue for="weight" value="234.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.56547765296"/>
+          <attvalue for="betweeness" value="0.00113053613054"/>
+          <attvalue for="community_orphan" value="6"/>
+          <attvalue for="cluster_universal_index" value="1"/>
+          <attvalue for="cluster_label" value="président Trump &amp; président français"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="5"/>
+          <attvalue for="out-degree" value="0.855861919674"/>
+        </attvalues>
+        <viz:color r="255" g="201" b="0" a="1.0"/>
+        <viz:position x="375.947542561" y="884.451924093" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.05458187281"/>
+      </node>
+      <node id="48" label="Donald Trump's">
+        <attvalues>
+          <attvalue for="weight" value="30.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.45617010749"/>
+          <attvalue for="betweeness" value="0.0"/>
+          <attvalue for="community_orphan" value="2"/>
+          <attvalue for="cluster_universal_index" value="2"/>
+          <attvalue for="cluster_label" value="Paris Agreement &amp; changement climatique"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="6"/>
+          <attvalue for="out-degree" value="0.417173888728"/>
+        </attvalues>
+        <viz:color r="0" g="119" b="221" a="1.0"/>
+        <viz:position x="2.1945662097" y="688.032271914" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.13520280421"/>
+      </node>
+      <node id="49" label="haut niveau">
+        <attvalues>
+          <attvalue for="weight" value="332.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.40945126766"/>
+          <attvalue for="betweeness" value="0.0181118881119"/>
+          <attvalue for="community_orphan" value="4"/>
+          <attvalue for="cluster_universal_index" value="6"/>
+          <attvalue for="cluster_label" value="haut niveau &amp; Denis Sassou"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="3"/>
+          <attvalue for="out-degree" value="3.32834651842"/>
+        </attvalues>
+        <viz:color r="0" g="188" b="0" a="1.0"/>
+        <viz:position x="816.070073064" y="674.873700689" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.49624436655"/>
+      </node>
+      <node id="50" label="Denis Sassou">
+        <attvalues>
+          <attvalue for="weight" value="231.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.50061263775"/>
+          <attvalue for="betweeness" value="0.0256449106449"/>
+          <attvalue for="community_orphan" value="4"/>
+          <attvalue for="cluster_universal_index" value="6"/>
+          <attvalue for="cluster_label" value="haut niveau &amp; Denis Sassou"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="3"/>
+          <attvalue for="out-degree" value="3.30694262257"/>
+        </attvalues>
+        <viz:color r="0" g="188" b="0" a="1.0"/>
+        <viz:position x="824.264422715" y="635.263019033" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.04106159239"/>
+      </node>
+      <node id="51" label="desarrollo sostenible">
+        <attvalues>
+          <attvalue for="weight" value="55.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="0.948263759898"/>
+          <attvalue for="betweeness" value="0.0"/>
+          <attvalue for="community_orphan" value="2"/>
+          <attvalue for="cluster_universal_index" value="2"/>
+          <attvalue for="cluster_label" value="Paris Agreement &amp; changement climatique"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="6"/>
+          <attvalue for="out-degree" value="0.812990115061"/>
+        </attvalues>
+        <viz:color r="0" g="119" b="221" a="1.0"/>
+        <viz:position x="0.0" y="566.636617303" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.24787180771"/>
+      </node>
+      <node id="52" label="long terme">
+        <attvalues>
+          <attvalue for="weight" value="97.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.48896829016"/>
+          <attvalue for="betweeness" value="0.106247086247"/>
+          <attvalue for="community_orphan" value="4"/>
+          <attvalue for="cluster_universal_index" value="6"/>
+          <attvalue for="cluster_label" value="haut niveau &amp; Denis Sassou"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="3"/>
+          <attvalue for="out-degree" value="0.370617852677"/>
+        </attvalues>
+        <viz:color r="0" g="188" b="0" a="1.0"/>
+        <viz:position x="840.219821654" y="714.598283192" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.4371557336"/>
+      </node>
+      <node id="53" label="primaire de la droite">
+        <attvalues>
+          <attvalue for="weight" value="229.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.58081531738"/>
+          <attvalue for="betweeness" value="0.0040404040404"/>
+          <attvalue for="community_orphan" value="3"/>
+          <attvalue for="cluster_universal_index" value="5"/>
+          <attvalue for="cluster_label" value="second tour &amp; premier tour"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="2"/>
+          <attvalue for="out-degree" value="5.53099157358"/>
+        </attvalues>
+        <viz:color r="0" g="170" b="151" a="1.0"/>
+        <viz:position x="832.123971274" y="163.932063524" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.03204807211"/>
+      </node>
+      <node id="54" label="Medio Ambiente">
+        <attvalues>
+          <attvalue for="weight" value="49.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.69328683012"/>
+          <attvalue for="betweeness" value="0.00151515151515"/>
+          <attvalue for="community_orphan" value="2"/>
+          <attvalue for="cluster_universal_index" value="2"/>
+          <attvalue for="cluster_label" value="Paris Agreement &amp; changement climatique"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="6"/>
+          <attvalue for="out-degree" value="0.945045470976"/>
+        </attvalues>
+        <viz:color r="0" g="119" b="221" a="1.0"/>
+        <viz:position x="62.071593987" y="587.004711974" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.22083124687"/>
+      </node>
+      <node id="55" label="Union européenne">
+        <attvalues>
+          <attvalue for="weight" value="221.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.56903211882"/>
+          <attvalue for="betweeness" value="0.125707070707"/>
+          <attvalue for="community_orphan" value="5"/>
+          <attvalue for="cluster_universal_index" value="3"/>
+          <attvalue for="cluster_label" value="Commission européenne &amp; pétrole et du gaz"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="0"/>
+          <attvalue for="out-degree" value="1.0851982743"/>
+        </attvalues>
+        <viz:color r="102" g="255" b="0" a="1.0"/>
+        <viz:position x="538.305599953" y="551.85537502" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.99599399099"/>
+      </node>
+      <node id="56" label="Fidel Castro">
+        <attvalues>
+          <attvalue for="weight" value="201.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.26800832734"/>
+          <attvalue for="betweeness" value="0.00683760683761"/>
+          <attvalue for="community_orphan" value="1"/>
+          <attvalue for="cluster_universal_index" value="0"/>
+          <attvalue for="cluster_label" value="Raúl Castro &amp; América Latina"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="4"/>
+          <attvalue for="out-degree" value="2.73452713331"/>
+        </attvalues>
+        <viz:color r="66" g="0" b="161" a="1.0"/>
+        <viz:position x="239.466624038" y="20.1186709149" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.90585878818"/>
+      </node>
+      <node id="57" label="François Hollande">
+        <attvalues>
+          <attvalue for="weight" value="1219.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.51990406733"/>
+          <attvalue for="betweeness" value="0.0002331002331"/>
+          <attvalue for="community_orphan" value="1"/>
+          <attvalue for="cluster_universal_index" value="0"/>
+          <attvalue for="cluster_label" value="Raúl Castro &amp; América Latina"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="4"/>
+          <attvalue for="out-degree" value="1.43903770973"/>
+        </attvalues>
+        <viz:color r="66" g="0" b="161" a="1.0"/>
+        <viz:position x="143.577716093" y="39.8212953196" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="6.49374061092"/>
+      </node>
+      <node id="58" label="Yannick Jadot">
+        <attvalues>
+          <attvalue for="weight" value="101.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.1678986157"/>
+          <attvalue for="betweeness" value="0.0"/>
+          <attvalue for="community_orphan" value="3"/>
+          <attvalue for="cluster_universal_index" value="5"/>
+          <attvalue for="cluster_label" value="second tour &amp; premier tour"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="2"/>
+          <attvalue for="out-degree" value="0.0"/>
+        </attvalues>
+        <viz:color r="0" g="170" b="151" a="1.0"/>
+        <viz:position x="997.502397905" y="203.533700476" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.45518277416"/>
+      </node>
+      <node id="59" label="entrée en vigueur">
+        <attvalues>
+          <attvalue for="weight" value="260.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.97530977259"/>
+          <attvalue for="betweeness" value="0.0678826728827"/>
+          <attvalue for="community_orphan" value="7"/>
+          <attvalue for="cluster_universal_index" value="4"/>
+          <attvalue for="cluster_label" value="gaz à effet de serre &amp; accord de Paris"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="1"/>
+          <attvalue for="out-degree" value="2.80430232556"/>
+        </attvalues>
+        <viz:color r="235" g="0" b="0" a="1.0"/>
+        <viz:position x="574.158953655" y="831.821341669" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.17175763645"/>
+      </node>
+      <node id="60" label="nouveau président">
+        <attvalues>
+          <attvalue for="weight" value="195.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="0.80114162029"/>
+          <attvalue for="betweeness" value="0.0717948717949"/>
+          <attvalue for="community_orphan" value="5"/>
+          <attvalue for="cluster_universal_index" value="3"/>
+          <attvalue for="cluster_label" value="Commission européenne &amp; pétrole et du gaz"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="0"/>
+          <attvalue for="out-degree" value="0.451337639408"/>
+        </attvalues>
+        <viz:color r="102" g="255" b="0" a="1.0"/>
+        <viz:position x="674.593741195" y="418.379146976" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.87881822734"/>
+      </node>
+      <node id="61" label="Emmanuel Macron">
+        <attvalues>
+          <attvalue for="weight" value="240.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.72690627988"/>
+          <attvalue for="betweeness" value="5.82750582751e-05"/>
+          <attvalue for="community_orphan" value="3"/>
+          <attvalue for="cluster_universal_index" value="5"/>
+          <attvalue for="cluster_label" value="second tour &amp; premier tour"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="2"/>
+          <attvalue for="out-degree" value="0.508750702394"/>
+        </attvalues>
+        <viz:color r="0" g="170" b="151" a="1.0"/>
+        <viz:position x="839.32511405" y="84.0438473024" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.08162243365"/>
+      </node>
+      <node id="62" label="Ségolène Royal">
+        <attvalues>
+          <attvalue for="weight" value="444.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="0.699350406575"/>
+          <attvalue for="betweeness" value="0.00878010878011"/>
+          <attvalue for="community_orphan" value="7"/>
+          <attvalue for="cluster_universal_index" value="4"/>
+          <attvalue for="cluster_label" value="gaz à effet de serre &amp; accord de Paris"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="1"/>
+          <attvalue for="out-degree" value="1.57725249755"/>
+        </attvalues>
+        <viz:color r="235" g="0" b="0" a="1.0"/>
+        <viz:position x="792.07229007" y="942.866430517" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="3.00100150225"/>
+      </node>
+      <node id="63" label="dérèglement climatique">
+        <attvalues>
+          <attvalue for="weight" value="57.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.5630443165"/>
+          <attvalue for="betweeness" value="0.0302292152292"/>
+          <attvalue for="community_orphan" value="7"/>
+          <attvalue for="cluster_universal_index" value="4"/>
+          <attvalue for="cluster_label" value="gaz à effet de serre &amp; accord de Paris"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="1"/>
+          <attvalue for="out-degree" value="0.877346168218"/>
+        </attvalues>
+        <viz:color r="235" g="0" b="0" a="1.0"/>
+        <viz:position x="769.039301988" y="879.820660115" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.25688532799"/>
+      </node>
+      <node id="64" label="Nations Unies">
+        <attvalues>
+          <attvalue for="weight" value="493.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.64017803411"/>
+          <attvalue for="betweeness" value="0.144541569542"/>
+          <attvalue for="community_orphan" value="4"/>
+          <attvalue for="cluster_universal_index" value="6"/>
+          <attvalue for="cluster_label" value="haut niveau &amp; Denis Sassou"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="3"/>
+          <attvalue for="out-degree" value="0.859841148452"/>
+        </attvalues>
+        <viz:color r="0" g="188" b="0" a="1.0"/>
+        <viz:position x="870.424114366" y="745.609182494" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="3.22183274912"/>
+      </node>
+      <node id="65" label="pouvoir politique">
+        <attvalues>
+          <attvalue for="weight" value="19.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="0.492443190435"/>
+          <attvalue for="betweeness" value="0.0"/>
+          <attvalue for="community_orphan" value="3"/>
+          <attvalue for="cluster_universal_index" value="5"/>
+          <attvalue for="cluster_label" value="second tour &amp; premier tour"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="2"/>
+          <attvalue for="out-degree" value="0.0"/>
+        </attvalues>
+        <viz:color r="0" g="170" b="151" a="1.0"/>
+        <viz:position x="999.999" y="79.5059845303" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="1.08562844266"/>
+      </node>
+      <node id="66" label="communauté internationale">
+        <attvalues>
+          <attvalue for="weight" value="232.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="1.87504406111"/>
+          <attvalue for="betweeness" value="0.194261849262"/>
+          <attvalue for="community_orphan" value="7"/>
+          <attvalue for="cluster_universal_index" value="4"/>
+          <attvalue for="cluster_label" value="gaz à effet de serre &amp; accord de Paris"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="1"/>
+          <attvalue for="out-degree" value="3.52090631628"/>
+        </attvalues>
+        <viz:color r="235" g="0" b="0" a="1.0"/>
+        <viz:position x="482.75918853" y="863.032826034" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.04556835253"/>
+      </node>
+      <node id="67" label="Paris sur le climat">
+        <attvalues>
+          <attvalue for="weight" value="371.0"/>
+          <attvalue for="period" value="306_327"/>
+          <attvalue for="category" value="category"/>
+          <attvalue for="in-degree" value="2.74074108433"/>
+          <attvalue for="betweeness" value="0.0"/>
+          <attvalue for="community_orphan" value="7"/>
+          <attvalue for="cluster_universal_index" value="4"/>
+          <attvalue for="cluster_label" value="gaz à effet de serre &amp; accord de Paris"/>
+          <attvalue for="level" value="low"/>
+          <attvalue for="cluster_index" value="1"/>
+          <attvalue for="out-degree" value="0.0"/>
+        </attvalues>
+        <viz:color r="235" g="0" b="0" a="1.0"/>
+        <viz:position x="562.270510596" y="910.210618053" z="0.0"/>
+        <viz:shape value="v"/>
+        <viz:size value="2.67200801202"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1" source="1" target="33" weight="0.408666069664">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="33"/>
+          <attvalue for="2" value="1"/>
+          <attvalue for="3" value="0.408666069664"/>
+        </attvalues>
+      </edge>
+      <edge id="2" source="1" target="3" weight="0.423248177728">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="3"/>
+          <attvalue for="2" value="1"/>
+          <attvalue for="3" value="0.423248177728"/>
+        </attvalues>
+      </edge>
+      <edge id="3" source="1" target="60" weight="0.451337639408">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="60"/>
+          <attvalue for="2" value="1"/>
+          <attvalue for="3" value="0.451337639408"/>
+        </attvalues>
+      </edge>
+      <edge id="4" source="1" target="45" weight="0.440805734714">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="45"/>
+          <attvalue for="2" value="1"/>
+          <attvalue for="3" value="0.440805734714"/>
+        </attvalues>
+      </edge>
+      <edge id="5" source="2" target="33" weight="0.567703802903">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="33"/>
+          <attvalue for="2" value="2"/>
+          <attvalue for="3" value="0.567703802903"/>
+        </attvalues>
+      </edge>
+      <edge id="6" source="2" target="59" weight="0.506682283302">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="59"/>
+          <attvalue for="2" value="2"/>
+          <attvalue for="3" value="0.506682283302"/>
+        </attvalues>
+      </edge>
+      <edge id="7" source="2" target="18" weight="0.532931508588">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="18"/>
+          <attvalue for="2" value="2"/>
+          <attvalue for="3" value="0.532931508588"/>
+        </attvalues>
+      </edge>
+      <edge id="8" source="2" target="45" weight="0.525200293138">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="45"/>
+          <attvalue for="2" value="2"/>
+          <attvalue for="3" value="0.525200293138"/>
+        </attvalues>
+      </edge>
+      <edge id="9" source="3" target="34" weight="0.359682088634">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="34"/>
+          <attvalue for="2" value="3"/>
+          <attvalue for="3" value="0.359682088634"/>
+        </attvalues>
+      </edge>
+      <edge id="10" source="3" target="16" weight="0.584266616014">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="16"/>
+          <attvalue for="2" value="3"/>
+          <attvalue for="3" value="0.584266616014"/>
+        </attvalues>
+      </edge>
+      <edge id="11" source="3" target="10" weight="0.477581660603">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="10"/>
+          <attvalue for="2" value="3"/>
+          <attvalue for="3" value="0.477581660603"/>
+        </attvalues>
+      </edge>
+      <edge id="12" source="4" target="34" weight="0.356132694355">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="34"/>
+          <attvalue for="2" value="4"/>
+          <attvalue for="3" value="0.356132694355"/>
+        </attvalues>
+      </edge>
+      <edge id="13" source="5" target="17" weight="0.366317640943">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="17"/>
+          <attvalue for="2" value="5"/>
+          <attvalue for="3" value="0.366317640943"/>
+        </attvalues>
+      </edge>
+      <edge id="14" source="5" target="19" weight="0.619328322781">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="19"/>
+          <attvalue for="2" value="5"/>
+          <attvalue for="3" value="0.619328322781"/>
+        </attvalues>
+      </edge>
+      <edge id="15" source="5" target="4" weight="0.503295403946">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="4"/>
+          <attvalue for="2" value="5"/>
+          <attvalue for="3" value="0.503295403946"/>
+        </attvalues>
+      </edge>
+      <edge id="16" source="6" target="33" weight="0.52449560951">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="33"/>
+          <attvalue for="2" value="6"/>
+          <attvalue for="3" value="0.52449560951"/>
+        </attvalues>
+      </edge>
+      <edge id="17" source="6" target="62" weight="0.435975452879">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="62"/>
+          <attvalue for="2" value="6"/>
+          <attvalue for="3" value="0.435975452879"/>
+        </attvalues>
+      </edge>
+      <edge id="18" source="6" target="20" weight="0.451701752848">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="20"/>
+          <attvalue for="2" value="6"/>
+          <attvalue for="3" value="0.451701752848"/>
+        </attvalues>
+      </edge>
+      <edge id="19" source="6" target="45" weight="0.459782875358">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="45"/>
+          <attvalue for="2" value="6"/>
+          <attvalue for="3" value="0.459782875358"/>
+        </attvalues>
+      </edge>
+      <edge id="20" source="7" target="26" weight="0.714188830086">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="26"/>
+          <attvalue for="2" value="7"/>
+          <attvalue for="3" value="0.714188830086"/>
+        </attvalues>
+      </edge>
+      <edge id="21" source="7" target="27" weight="0.704561722437">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="27"/>
+          <attvalue for="2" value="7"/>
+          <attvalue for="3" value="0.704561722437"/>
+        </attvalues>
+      </edge>
+      <edge id="22" source="7" target="53" weight="0.619261883134">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="53"/>
+          <attvalue for="2" value="7"/>
+          <attvalue for="3" value="0.619261883134"/>
+        </attvalues>
+      </edge>
+      <edge id="23" source="7" target="13" weight="0.743708175478">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="13"/>
+          <attvalue for="2" value="7"/>
+          <attvalue for="3" value="0.743708175478"/>
+        </attvalues>
+      </edge>
+      <edge id="24" source="8" target="34" weight="0.367280499768">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="34"/>
+          <attvalue for="2" value="8"/>
+          <attvalue for="3" value="0.367280499768"/>
+        </attvalues>
+      </edge>
+      <edge id="25" source="8" target="59" weight="0.390779660205">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="59"/>
+          <attvalue for="2" value="8"/>
+          <attvalue for="3" value="0.390779660205"/>
+        </attvalues>
+      </edge>
+      <edge id="26" source="8" target="55" weight="0.390330397495">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="55"/>
+          <attvalue for="2" value="8"/>
+          <attvalue for="3" value="0.390330397495"/>
+        </attvalues>
+      </edge>
+      <edge id="27" source="9" target="33" weight="0.486854733814">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="33"/>
+          <attvalue for="2" value="9"/>
+          <attvalue for="3" value="0.486854733814"/>
+        </attvalues>
+      </edge>
+      <edge id="28" source="9" target="18" weight="0.5319174102">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="18"/>
+          <attvalue for="2" value="9"/>
+          <attvalue for="3" value="0.5319174102"/>
+        </attvalues>
+      </edge>
+      <edge id="29" source="9" target="45" weight="0.573676570129">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="45"/>
+          <attvalue for="2" value="9"/>
+          <attvalue for="3" value="0.573676570129"/>
+        </attvalues>
+      </edge>
+      <edge id="30" source="9" target="20" weight="0.453453571693">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="20"/>
+          <attvalue for="2" value="9"/>
+          <attvalue for="3" value="0.453453571693"/>
+        </attvalues>
+      </edge>
+      <edge id="31" source="10" target="16" weight="0.362128826634">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="16"/>
+          <attvalue for="2" value="10"/>
+          <attvalue for="3" value="0.362128826634"/>
+        </attvalues>
+      </edge>
+      <edge id="32" source="10" target="3" weight="0.541999223698">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="3"/>
+          <attvalue for="2" value="10"/>
+          <attvalue for="3" value="0.541999223698"/>
+        </attvalues>
+      </edge>
+      <edge id="33" source="11" target="31" weight="0.562153907265">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="31"/>
+          <attvalue for="2" value="11"/>
+          <attvalue for="3" value="0.562153907265"/>
+        </attvalues>
+      </edge>
+      <edge id="34" source="11" target="37" weight="0.418808878062">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="37"/>
+          <attvalue for="2" value="11"/>
+          <attvalue for="3" value="0.418808878062"/>
+        </attvalues>
+      </edge>
+      <edge id="35" source="11" target="66" weight="0.406232839618">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="66"/>
+          <attvalue for="2" value="11"/>
+          <attvalue for="3" value="0.406232839618"/>
+        </attvalues>
+      </edge>
+      <edge id="36" source="11" target="47" weight="0.396815115074">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="47"/>
+          <attvalue for="2" value="11"/>
+          <attvalue for="3" value="0.396815115074"/>
+        </attvalues>
+      </edge>
+      <edge id="37" source="12" target="56" weight="0.384499815444">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="56"/>
+          <attvalue for="2" value="12"/>
+          <attvalue for="3" value="0.384499815444"/>
+        </attvalues>
+      </edge>
+      <edge id="38" source="12" target="38" weight="0.363074256065">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="38"/>
+          <attvalue for="2" value="12"/>
+          <attvalue for="3" value="0.363074256065"/>
+        </attvalues>
+      </edge>
+      <edge id="39" source="12" target="32" weight="0.343093427601">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="32"/>
+          <attvalue for="2" value="12"/>
+          <attvalue for="3" value="0.343093427601"/>
+        </attvalues>
+      </edge>
+      <edge id="40" source="12" target="17" weight="0.33300314049">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="17"/>
+          <attvalue for="2" value="12"/>
+          <attvalue for="3" value="0.33300314049"/>
+        </attvalues>
+      </edge>
+      <edge id="41" source="13" target="26" weight="0.820080662725">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="26"/>
+          <attvalue for="2" value="13"/>
+          <attvalue for="3" value="0.820080662725"/>
+        </attvalues>
+      </edge>
+      <edge id="42" source="13" target="27" weight="0.745085640152">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="27"/>
+          <attvalue for="2" value="13"/>
+          <attvalue for="3" value="0.745085640152"/>
+        </attvalues>
+      </edge>
+      <edge id="43" source="13" target="53" weight="0.710884644034">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="53"/>
+          <attvalue for="2" value="13"/>
+          <attvalue for="3" value="0.710884644034"/>
+        </attvalues>
+      </edge>
+      <edge id="44" source="13" target="7" weight="0.74397550246">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="7"/>
+          <attvalue for="2" value="13"/>
+          <attvalue for="3" value="0.74397550246"/>
+        </attvalues>
+      </edge>
+      <edge id="45" source="14" target="55" weight="0.335847220777">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="55"/>
+          <attvalue for="2" value="14"/>
+          <attvalue for="3" value="0.335847220777"/>
+        </attvalues>
+      </edge>
+      <edge id="46" source="15" target="26" weight="0.835871050748">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="26"/>
+          <attvalue for="2" value="15"/>
+          <attvalue for="3" value="0.835871050748"/>
+        </attvalues>
+      </edge>
+      <edge id="47" source="15" target="27" weight="0.916817042045">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="27"/>
+          <attvalue for="2" value="15"/>
+          <attvalue for="3" value="0.916817042045"/>
+        </attvalues>
+      </edge>
+      <edge id="48" source="15" target="13" weight="0.766189424075">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="13"/>
+          <attvalue for="2" value="15"/>
+          <attvalue for="3" value="0.766189424075"/>
+        </attvalues>
+      </edge>
+      <edge id="49" source="15" target="7" weight="0.792244594444">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="7"/>
+          <attvalue for="2" value="15"/>
+          <attvalue for="3" value="0.792244594444"/>
+        </attvalues>
+      </edge>
+      <edge id="50" source="16" target="34" weight="0.41924107921">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="34"/>
+          <attvalue for="2" value="16"/>
+          <attvalue for="3" value="0.41924107921"/>
+        </attvalues>
+      </edge>
+      <edge id="51" source="16" target="10" weight="0.352797304962">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="10"/>
+          <attvalue for="2" value="16"/>
+          <attvalue for="3" value="0.352797304962"/>
+        </attvalues>
+      </edge>
+      <edge id="52" source="16" target="3" weight="0.642687250891">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="3"/>
+          <attvalue for="2" value="16"/>
+          <attvalue for="3" value="0.642687250891"/>
+        </attvalues>
+      </edge>
+      <edge id="53" source="17" target="4" weight="0.343063729708">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="4"/>
+          <attvalue for="2" value="17"/>
+          <attvalue for="3" value="0.343063729708"/>
+        </attvalues>
+      </edge>
+      <edge id="54" source="18" target="6" weight="0.386444060982">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="6"/>
+          <attvalue for="2" value="18"/>
+          <attvalue for="3" value="0.386444060982"/>
+        </attvalues>
+      </edge>
+      <edge id="55" source="18" target="62" weight="0.418497633889">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="62"/>
+          <attvalue for="2" value="18"/>
+          <attvalue for="3" value="0.418497633889"/>
+        </attvalues>
+      </edge>
+      <edge id="56" source="18" target="2" weight="0.402808392866">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="2"/>
+          <attvalue for="2" value="18"/>
+          <attvalue for="3" value="0.402808392866"/>
+        </attvalues>
+      </edge>
+      <edge id="57" source="18" target="9" weight="0.367466867168">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="9"/>
+          <attvalue for="2" value="18"/>
+          <attvalue for="3" value="0.367466867168"/>
+        </attvalues>
+      </edge>
+      <edge id="58" source="19" target="5" weight="0.53535695411">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="5"/>
+          <attvalue for="2" value="19"/>
+          <attvalue for="3" value="0.53535695411"/>
+        </attvalues>
+      </edge>
+      <edge id="59" source="19" target="17" weight="0.380702331831">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="17"/>
+          <attvalue for="2" value="19"/>
+          <attvalue for="3" value="0.380702331831"/>
+        </attvalues>
+      </edge>
+      <edge id="60" source="19" target="53" weight="0.3922070368">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="53"/>
+          <attvalue for="2" value="19"/>
+          <attvalue for="3" value="0.3922070368"/>
+        </attvalues>
+      </edge>
+      <edge id="61" source="19" target="7" weight="0.469037671137">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="7"/>
+          <attvalue for="2" value="19"/>
+          <attvalue for="3" value="0.469037671137"/>
+        </attvalues>
+      </edge>
+      <edge id="62" source="20" target="33" weight="0.445375333154">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="33"/>
+          <attvalue for="2" value="20"/>
+          <attvalue for="3" value="0.445375333154"/>
+        </attvalues>
+      </edge>
+      <edge id="63" source="20" target="6" weight="0.489936062877">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="6"/>
+          <attvalue for="2" value="20"/>
+          <attvalue for="3" value="0.489936062877"/>
+        </attvalues>
+      </edge>
+      <edge id="64" source="20" target="66" weight="0.491433432119">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="66"/>
+          <attvalue for="2" value="20"/>
+          <attvalue for="3" value="0.491433432119"/>
+        </attvalues>
+      </edge>
+      <edge id="65" source="20" target="45" weight="0.467599262464">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="45"/>
+          <attvalue for="2" value="20"/>
+          <attvalue for="3" value="0.467599262464"/>
+        </attvalues>
+      </edge>
+      <edge id="66" source="21" target="49" weight="0.453664069708">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="49"/>
+          <attvalue for="2" value="21"/>
+          <attvalue for="3" value="0.453664069708"/>
+        </attvalues>
+      </edge>
+      <edge id="67" source="21" target="46" weight="0.50267604529">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="46"/>
+          <attvalue for="2" value="21"/>
+          <attvalue for="3" value="0.50267604529"/>
+        </attvalues>
+      </edge>
+      <edge id="68" source="21" target="50" weight="0.477094509063">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="50"/>
+          <attvalue for="2" value="21"/>
+          <attvalue for="3" value="0.477094509063"/>
+        </attvalues>
+      </edge>
+      <edge id="69" source="21" target="40" weight="0.504868792528">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="40"/>
+          <attvalue for="2" value="21"/>
+          <attvalue for="3" value="0.504868792528"/>
+        </attvalues>
+      </edge>
+      <edge id="70" source="22" target="49" weight="0.60874512452">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="49"/>
+          <attvalue for="2" value="22"/>
+          <attvalue for="3" value="0.60874512452"/>
+        </attvalues>
+      </edge>
+      <edge id="71" source="22" target="50" weight="0.615894518081">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="50"/>
+          <attvalue for="2" value="22"/>
+          <attvalue for="3" value="0.615894518081"/>
+        </attvalues>
+      </edge>
+      <edge id="72" source="22" target="37" weight="0.529240892971">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="37"/>
+          <attvalue for="2" value="22"/>
+          <attvalue for="3" value="0.529240892971"/>
+        </attvalues>
+      </edge>
+      <edge id="73" source="22" target="64" weight="0.474676409537">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="64"/>
+          <attvalue for="2" value="22"/>
+          <attvalue for="3" value="0.474676409537"/>
+        </attvalues>
+      </edge>
+      <edge id="74" source="23" target="56" weight="0.418058341251">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="56"/>
+          <attvalue for="2" value="23"/>
+          <attvalue for="3" value="0.418058341251"/>
+        </attvalues>
+      </edge>
+      <edge id="75" source="23" target="57" weight="0.386015655507">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="57"/>
+          <attvalue for="2" value="23"/>
+          <attvalue for="3" value="0.386015655507"/>
+        </attvalues>
+      </edge>
+      <edge id="76" source="23" target="38" weight="0.374337160582">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="38"/>
+          <attvalue for="2" value="23"/>
+          <attvalue for="3" value="0.374337160582"/>
+        </attvalues>
+      </edge>
+      <edge id="77" source="23" target="32" weight="0.372704771257">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="32"/>
+          <attvalue for="2" value="23"/>
+          <attvalue for="3" value="0.372704771257"/>
+        </attvalues>
+      </edge>
+      <edge id="78" source="24" target="44" weight="0.490192548268">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="44"/>
+          <attvalue for="2" value="24"/>
+          <attvalue for="3" value="0.490192548268"/>
+        </attvalues>
+      </edge>
+      <edge id="79" source="24" target="35" weight="0.427489618422">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="35"/>
+          <attvalue for="2" value="24"/>
+          <attvalue for="3" value="0.427489618422"/>
+        </attvalues>
+      </edge>
+      <edge id="80" source="24" target="39" weight="0.513189948368">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="39"/>
+          <attvalue for="2" value="24"/>
+          <attvalue for="3" value="0.513189948368"/>
+        </attvalues>
+      </edge>
+      <edge id="81" source="24" target="36" weight="0.449889473775">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="36"/>
+          <attvalue for="2" value="24"/>
+          <attvalue for="3" value="0.449889473775"/>
+        </attvalues>
+      </edge>
+      <edge id="82" source="25" target="11" weight="0.59444744946">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="11"/>
+          <attvalue for="2" value="25"/>
+          <attvalue for="3" value="0.59444744946"/>
+        </attvalues>
+      </edge>
+      <edge id="83" source="26" target="27" weight="0.783151602121">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="27"/>
+          <attvalue for="2" value="26"/>
+          <attvalue for="3" value="0.783151602121"/>
+        </attvalues>
+      </edge>
+      <edge id="84" source="26" target="53" weight="0.66956257904">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="53"/>
+          <attvalue for="2" value="26"/>
+          <attvalue for="3" value="0.66956257904"/>
+        </attvalues>
+      </edge>
+      <edge id="85" source="26" target="13" weight="0.840586761954">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="13"/>
+          <attvalue for="2" value="26"/>
+          <attvalue for="3" value="0.840586761954"/>
+        </attvalues>
+      </edge>
+      <edge id="86" source="26" target="7" weight="0.732010201446">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="7"/>
+          <attvalue for="2" value="26"/>
+          <attvalue for="3" value="0.732010201446"/>
+        </attvalues>
+      </edge>
+      <edge id="87" source="27" target="26" weight="0.869185845989">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="26"/>
+          <attvalue for="2" value="27"/>
+          <attvalue for="3" value="0.869185845989"/>
+        </attvalues>
+      </edge>
+      <edge id="88" source="27" target="53" weight="0.68838543366">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="53"/>
+          <attvalue for="2" value="27"/>
+          <attvalue for="3" value="0.68838543366"/>
+        </attvalues>
+      </edge>
+      <edge id="89" source="27" target="13" weight="0.845968530956">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="13"/>
+          <attvalue for="2" value="27"/>
+          <attvalue for="3" value="0.845968530956"/>
+        </attvalues>
+      </edge>
+      <edge id="90" source="27" target="7" weight="0.803071416123">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="7"/>
+          <attvalue for="2" value="27"/>
+          <attvalue for="3" value="0.803071416123"/>
+        </attvalues>
+      </edge>
+      <edge id="91" source="28" target="6" weight="0.405142724264">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="6"/>
+          <attvalue for="2" value="28"/>
+          <attvalue for="3" value="0.405142724264"/>
+        </attvalues>
+      </edge>
+      <edge id="92" source="28" target="62" weight="0.387542773931">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="62"/>
+          <attvalue for="2" value="28"/>
+          <attvalue for="3" value="0.387542773931"/>
+        </attvalues>
+      </edge>
+      <edge id="93" source="29" target="26" weight="0.634246178198">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="26"/>
+          <attvalue for="2" value="29"/>
+          <attvalue for="3" value="0.634246178198"/>
+        </attvalues>
+      </edge>
+      <edge id="94" source="29" target="27" weight="0.642769494897">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="27"/>
+          <attvalue for="2" value="29"/>
+          <attvalue for="3" value="0.642769494897"/>
+        </attvalues>
+      </edge>
+      <edge id="95" source="29" target="53" weight="0.653940471172">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="53"/>
+          <attvalue for="2" value="29"/>
+          <attvalue for="3" value="0.653940471172"/>
+        </attvalues>
+      </edge>
+      <edge id="96" source="29" target="13" weight="0.668528936542">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="13"/>
+          <attvalue for="2" value="29"/>
+          <attvalue for="3" value="0.668528936542"/>
+        </attvalues>
+      </edge>
+      <edge id="97" source="30" target="26" weight="0.554636256101">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="26"/>
+          <attvalue for="2" value="30"/>
+          <attvalue for="3" value="0.554636256101"/>
+        </attvalues>
+      </edge>
+      <edge id="98" source="30" target="53" weight="0.579308162796">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="53"/>
+          <attvalue for="2" value="30"/>
+          <attvalue for="3" value="0.579308162796"/>
+        </attvalues>
+      </edge>
+      <edge id="99" source="30" target="13" weight="0.553671399078">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="13"/>
+          <attvalue for="2" value="30"/>
+          <attvalue for="3" value="0.553671399078"/>
+        </attvalues>
+      </edge>
+      <edge id="100" source="30" target="61" weight="0.508750702394">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="61"/>
+          <attvalue for="2" value="30"/>
+          <attvalue for="3" value="0.508750702394"/>
+        </attvalues>
+      </edge>
+      <edge id="101" source="31" target="11" weight="0.653909429617">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="11"/>
+          <attvalue for="2" value="31"/>
+          <attvalue for="3" value="0.653909429617"/>
+        </attvalues>
+      </edge>
+      <edge id="102" source="31" target="66" weight="0.579801065877">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="66"/>
+          <attvalue for="2" value="31"/>
+          <attvalue for="3" value="0.579801065877"/>
+        </attvalues>
+      </edge>
+      <edge id="103" source="31" target="37" weight="0.401089196162">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="37"/>
+          <attvalue for="2" value="31"/>
+          <attvalue for="3" value="0.401089196162"/>
+        </attvalues>
+      </edge>
+      <edge id="104" source="31" target="47" weight="0.4590468046">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="47"/>
+          <attvalue for="2" value="31"/>
+          <attvalue for="3" value="0.4590468046"/>
+        </attvalues>
+      </edge>
+      <edge id="105" source="32" target="56" weight="0.760369339497">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="56"/>
+          <attvalue for="2" value="32"/>
+          <attvalue for="3" value="0.760369339497"/>
+        </attvalues>
+      </edge>
+      <edge id="106" source="32" target="57" weight="0.528842396857">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="57"/>
+          <attvalue for="2" value="32"/>
+          <attvalue for="3" value="0.528842396857"/>
+        </attvalues>
+      </edge>
+      <edge id="107" source="32" target="38" weight="0.89759404352">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="38"/>
+          <attvalue for="2" value="32"/>
+          <attvalue for="3" value="0.89759404352"/>
+        </attvalues>
+      </edge>
+      <edge id="108" source="32" target="12" weight="0.561753333197">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="12"/>
+          <attvalue for="2" value="32"/>
+          <attvalue for="3" value="0.561753333197"/>
+        </attvalues>
+      </edge>
+      <edge id="109" source="33" target="6" weight="0.613309606763">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="6"/>
+          <attvalue for="2" value="33"/>
+          <attvalue for="3" value="0.613309606763"/>
+        </attvalues>
+      </edge>
+      <edge id="110" source="33" target="63" weight="0.532578656263">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="63"/>
+          <attvalue for="2" value="33"/>
+          <attvalue for="3" value="0.532578656263"/>
+        </attvalues>
+      </edge>
+      <edge id="111" source="33" target="2" weight="0.56779568937">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="2"/>
+          <attvalue for="2" value="33"/>
+          <attvalue for="3" value="0.56779568937"/>
+        </attvalues>
+      </edge>
+      <edge id="112" source="33" target="45" weight="0.741886588719">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="45"/>
+          <attvalue for="2" value="33"/>
+          <attvalue for="3" value="0.741886588719"/>
+        </attvalues>
+      </edge>
+      <edge id="113" source="34" target="16" weight="0.350041501575">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="16"/>
+          <attvalue for="2" value="34"/>
+          <attvalue for="3" value="0.350041501575"/>
+        </attvalues>
+      </edge>
+      <edge id="114" source="34" target="55" weight="0.359020656029">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="55"/>
+          <attvalue for="2" value="34"/>
+          <attvalue for="3" value="0.359020656029"/>
+        </attvalues>
+      </edge>
+      <edge id="115" source="34" target="4" weight="0.361581502476">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="4"/>
+          <attvalue for="2" value="34"/>
+          <attvalue for="3" value="0.361581502476"/>
+        </attvalues>
+      </edge>
+      <edge id="116" source="35" target="44" weight="0.40407813293">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="44"/>
+          <attvalue for="2" value="35"/>
+          <attvalue for="3" value="0.40407813293"/>
+        </attvalues>
+      </edge>
+      <edge id="117" source="35" target="11" weight="0.368936935909">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="11"/>
+          <attvalue for="2" value="35"/>
+          <attvalue for="3" value="0.368936935909"/>
+        </attvalues>
+      </edge>
+      <edge id="118" source="35" target="24" weight="0.459606306282">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="24"/>
+          <attvalue for="2" value="35"/>
+          <attvalue for="3" value="0.459606306282"/>
+        </attvalues>
+      </edge>
+      <edge id="119" source="35" target="66" weight="0.382191257406">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="66"/>
+          <attvalue for="2" value="35"/>
+          <attvalue for="3" value="0.382191257406"/>
+        </attvalues>
+      </edge>
+      <edge id="120" source="36" target="21" weight="0.378422279669">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="21"/>
+          <attvalue for="2" value="36"/>
+          <attvalue for="3" value="0.378422279669"/>
+        </attvalues>
+      </edge>
+      <edge id="121" source="36" target="39" weight="0.571291883879">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="39"/>
+          <attvalue for="2" value="36"/>
+          <attvalue for="3" value="0.571291883879"/>
+        </attvalues>
+      </edge>
+      <edge id="122" source="37" target="22" weight="0.625472695859">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="22"/>
+          <attvalue for="2" value="37"/>
+          <attvalue for="3" value="0.625472695859"/>
+        </attvalues>
+      </edge>
+      <edge id="123" source="37" target="49" weight="0.712577937414">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="49"/>
+          <attvalue for="2" value="37"/>
+          <attvalue for="3" value="0.712577937414"/>
+        </attvalues>
+      </edge>
+      <edge id="124" source="37" target="50" weight="0.538108946873">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="50"/>
+          <attvalue for="2" value="37"/>
+          <attvalue for="3" value="0.538108946873"/>
+        </attvalues>
+      </edge>
+      <edge id="125" source="37" target="40" weight="0.592942533503">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="40"/>
+          <attvalue for="2" value="37"/>
+          <attvalue for="3" value="0.592942533503"/>
+        </attvalues>
+      </edge>
+      <edge id="126" source="38" target="12" weight="0.56700840407">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="12"/>
+          <attvalue for="2" value="38"/>
+          <attvalue for="3" value="0.56700840407"/>
+        </attvalues>
+      </edge>
+      <edge id="127" source="38" target="57" weight="0.524179657368">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="57"/>
+          <attvalue for="2" value="38"/>
+          <attvalue for="3" value="0.524179657368"/>
+        </attvalues>
+      </edge>
+      <edge id="128" source="38" target="32" weight="0.876168120263">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="32"/>
+          <attvalue for="2" value="38"/>
+          <attvalue for="3" value="0.876168120263"/>
+        </attvalues>
+      </edge>
+      <edge id="129" source="38" target="56" weight="0.773197501507">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="56"/>
+          <attvalue for="2" value="38"/>
+          <attvalue for="3" value="0.773197501507"/>
+        </attvalues>
+      </edge>
+      <edge id="130" source="39" target="21" weight="0.366303438894">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="21"/>
+          <attvalue for="2" value="39"/>
+          <attvalue for="3" value="0.366303438894"/>
+        </attvalues>
+      </edge>
+      <edge id="131" source="39" target="54" weight="0.361965901247">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="54"/>
+          <attvalue for="2" value="39"/>
+          <attvalue for="3" value="0.361965901247"/>
+        </attvalues>
+      </edge>
+      <edge id="132" source="39" target="24" weight="0.403727143762">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="24"/>
+          <attvalue for="2" value="39"/>
+          <attvalue for="3" value="0.403727143762"/>
+        </attvalues>
+      </edge>
+      <edge id="133" source="39" target="36" weight="0.651145036918">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="36"/>
+          <attvalue for="2" value="39"/>
+          <attvalue for="3" value="0.651145036918"/>
+        </attvalues>
+      </edge>
+      <edge id="134" source="40" target="21" weight="0.506801075649">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="21"/>
+          <attvalue for="2" value="40"/>
+          <attvalue for="3" value="0.506801075649"/>
+        </attvalues>
+      </edge>
+      <edge id="135" source="40" target="50" weight="0.506018702922">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="50"/>
+          <attvalue for="2" value="40"/>
+          <attvalue for="3" value="0.506018702922"/>
+        </attvalues>
+      </edge>
+      <edge id="136" source="40" target="37" weight="0.496382507527">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="37"/>
+          <attvalue for="2" value="40"/>
+          <attvalue for="3" value="0.496382507527"/>
+        </attvalues>
+      </edge>
+      <edge id="137" source="40" target="46" weight="0.563868934658">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="46"/>
+          <attvalue for="2" value="40"/>
+          <attvalue for="3" value="0.563868934658"/>
+        </attvalues>
+      </edge>
+      <edge id="138" source="41" target="27" weight="0.38866601922">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="27"/>
+          <attvalue for="2" value="41"/>
+          <attvalue for="3" value="0.38866601922"/>
+        </attvalues>
+      </edge>
+      <edge id="139" source="41" target="53" weight="0.541713821372">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="53"/>
+          <attvalue for="2" value="41"/>
+          <attvalue for="3" value="0.541713821372"/>
+        </attvalues>
+      </edge>
+      <edge id="140" source="41" target="13" weight="0.486753571274">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="13"/>
+          <attvalue for="2" value="41"/>
+          <attvalue for="3" value="0.486753571274"/>
+        </attvalues>
+      </edge>
+      <edge id="141" source="41" target="7" weight="0.456251708382">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="7"/>
+          <attvalue for="2" value="41"/>
+          <attvalue for="3" value="0.456251708382"/>
+        </attvalues>
+      </edge>
+      <edge id="142" source="42" target="27" weight="0.391456986492">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="27"/>
+          <attvalue for="2" value="42"/>
+          <attvalue for="3" value="0.391456986492"/>
+        </attvalues>
+      </edge>
+      <edge id="143" source="42" target="29" weight="0.441979761214">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="29"/>
+          <attvalue for="2" value="42"/>
+          <attvalue for="3" value="0.441979761214"/>
+        </attvalues>
+      </edge>
+      <edge id="144" source="42" target="13" weight="0.413530934161">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="13"/>
+          <attvalue for="2" value="42"/>
+          <attvalue for="3" value="0.413530934161"/>
+        </attvalues>
+      </edge>
+      <edge id="145" source="42" target="7" weight="0.48561646794">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="7"/>
+          <attvalue for="2" value="42"/>
+          <attvalue for="3" value="0.48561646794"/>
+        </attvalues>
+      </edge>
+      <edge id="146" source="43" target="33" weight="0.542172920816">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="33"/>
+          <attvalue for="2" value="43"/>
+          <attvalue for="3" value="0.542172920816"/>
+        </attvalues>
+      </edge>
+      <edge id="147" source="43" target="59" weight="0.48040164897">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="59"/>
+          <attvalue for="2" value="43"/>
+          <attvalue for="3" value="0.48040164897"/>
+        </attvalues>
+      </edge>
+      <edge id="148" source="43" target="2" weight="0.442672869704">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="2"/>
+          <attvalue for="2" value="43"/>
+          <attvalue for="3" value="0.442672869704"/>
+        </attvalues>
+      </edge>
+      <edge id="149" source="43" target="45" weight="0.491270365873">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="45"/>
+          <attvalue for="2" value="43"/>
+          <attvalue for="3" value="0.491270365873"/>
+        </attvalues>
+      </edge>
+      <edge id="150" source="44" target="39" weight="0.55396086541">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="39"/>
+          <attvalue for="2" value="44"/>
+          <attvalue for="3" value="0.55396086541"/>
+        </attvalues>
+      </edge>
+      <edge id="151" source="44" target="35" weight="0.473691257127">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="35"/>
+          <attvalue for="2" value="44"/>
+          <attvalue for="3" value="0.473691257127"/>
+        </attvalues>
+      </edge>
+      <edge id="152" source="44" target="48" weight="0.417173888728">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="48"/>
+          <attvalue for="2" value="44"/>
+          <attvalue for="3" value="0.417173888728"/>
+        </attvalues>
+      </edge>
+      <edge id="153" source="44" target="24" weight="0.626735748567">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="24"/>
+          <attvalue for="2" value="44"/>
+          <attvalue for="3" value="0.626735748567"/>
+        </attvalues>
+      </edge>
+      <edge id="154" source="45" target="33" weight="0.603493635627">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="33"/>
+          <attvalue for="2" value="45"/>
+          <attvalue for="3" value="0.603493635627"/>
+        </attvalues>
+      </edge>
+      <edge id="155" source="45" target="6" weight="0.436409902431">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="6"/>
+          <attvalue for="2" value="45"/>
+          <attvalue for="3" value="0.436409902431"/>
+        </attvalues>
+      </edge>
+      <edge id="156" source="45" target="59" weight="0.470900491303">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="59"/>
+          <attvalue for="2" value="45"/>
+          <attvalue for="3" value="0.470900491303"/>
+        </attvalues>
+      </edge>
+      <edge id="157" source="45" target="66" weight="0.49098809455">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="66"/>
+          <attvalue for="2" value="45"/>
+          <attvalue for="3" value="0.49098809455"/>
+        </attvalues>
+      </edge>
+      <edge id="158" source="46" target="21" weight="0.556549276939">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="21"/>
+          <attvalue for="2" value="46"/>
+          <attvalue for="3" value="0.556549276939"/>
+        </attvalues>
+      </edge>
+      <edge id="159" source="46" target="49" weight="0.524293896468">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="49"/>
+          <attvalue for="2" value="46"/>
+          <attvalue for="3" value="0.524293896468"/>
+        </attvalues>
+      </edge>
+      <edge id="160" source="46" target="50" weight="0.578511837924">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="50"/>
+          <attvalue for="2" value="46"/>
+          <attvalue for="3" value="0.578511837924"/>
+        </attvalues>
+      </edge>
+      <edge id="161" source="46" target="40" weight="0.621137367021">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="40"/>
+          <attvalue for="2" value="46"/>
+          <attvalue for="3" value="0.621137367021"/>
+        </attvalues>
+      </edge>
+      <edge id="162" source="47" target="31" weight="0.390263301081">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="31"/>
+          <attvalue for="2" value="47"/>
+          <attvalue for="3" value="0.390263301081"/>
+        </attvalues>
+      </edge>
+      <edge id="163" source="47" target="11" weight="0.390850308506">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="11"/>
+          <attvalue for="2" value="47"/>
+          <attvalue for="3" value="0.390850308506"/>
+        </attvalues>
+      </edge>
+      <edge id="164" source="47" target="66" weight="0.385987773961">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="66"/>
+          <attvalue for="2" value="47"/>
+          <attvalue for="3" value="0.385987773961"/>
+        </attvalues>
+      </edge>
+      <edge id="165" source="47" target="45" weight="0.398376269408">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="45"/>
+          <attvalue for="2" value="47"/>
+          <attvalue for="3" value="0.398376269408"/>
+        </attvalues>
+      </edge>
+      <edge id="166" source="48" target="44" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="44"/>
+          <attvalue for="2" value="48"/>
+          <attvalue for="3" value="1.0"/>
+        </attvalues>
+      </edge>
+      <edge id="167" source="48" target="35" weight="0.607534794747">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="35"/>
+          <attvalue for="2" value="48"/>
+          <attvalue for="3" value="0.607534794747"/>
+        </attvalues>
+      </edge>
+      <edge id="168" source="48" target="24" weight="0.84863531274">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="24"/>
+          <attvalue for="2" value="48"/>
+          <attvalue for="3" value="0.84863531274"/>
+        </attvalues>
+      </edge>
+      <edge id="169" source="49" target="22" weight="0.653950688458">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="22"/>
+          <attvalue for="2" value="49"/>
+          <attvalue for="3" value="0.653950688458"/>
+        </attvalues>
+      </edge>
+      <edge id="170" source="49" target="50" weight="0.591314107707">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="50"/>
+          <attvalue for="2" value="49"/>
+          <attvalue for="3" value="0.591314107707"/>
+        </attvalues>
+      </edge>
+      <edge id="171" source="49" target="37" weight="0.64596977013">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="37"/>
+          <attvalue for="2" value="49"/>
+          <attvalue for="3" value="0.64596977013"/>
+        </attvalues>
+      </edge>
+      <edge id="172" source="49" target="40" weight="0.518216701362">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="40"/>
+          <attvalue for="2" value="49"/>
+          <attvalue for="3" value="0.518216701362"/>
+        </attvalues>
+      </edge>
+      <edge id="173" source="50" target="22" weight="0.698065926836">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="22"/>
+          <attvalue for="2" value="50"/>
+          <attvalue for="3" value="0.698065926836"/>
+        </attvalues>
+      </edge>
+      <edge id="174" source="50" target="49" weight="0.622093532359">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="49"/>
+          <attvalue for="2" value="50"/>
+          <attvalue for="3" value="0.622093532359"/>
+        </attvalues>
+      </edge>
+      <edge id="175" source="50" target="46" weight="0.600689488584">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="46"/>
+          <attvalue for="2" value="50"/>
+          <attvalue for="3" value="0.600689488584"/>
+        </attvalues>
+      </edge>
+      <edge id="176" source="50" target="40" weight="0.579763689969">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="40"/>
+          <attvalue for="2" value="50"/>
+          <attvalue for="3" value="0.579763689969"/>
+        </attvalues>
+      </edge>
+      <edge id="177" source="51" target="39" weight="0.365184190168">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="39"/>
+          <attvalue for="2" value="51"/>
+          <attvalue for="3" value="0.365184190168"/>
+        </attvalues>
+      </edge>
+      <edge id="178" source="51" target="54" weight="0.583079569729">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="54"/>
+          <attvalue for="2" value="51"/>
+          <attvalue for="3" value="0.583079569729"/>
+        </attvalues>
+      </edge>
+      <edge id="179" source="52" target="1" weight="0.339642381989">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="1"/>
+          <attvalue for="2" value="52"/>
+          <attvalue for="3" value="0.339642381989"/>
+        </attvalues>
+      </edge>
+      <edge id="180" source="52" target="22" weight="0.357189211306">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="22"/>
+          <attvalue for="2" value="52"/>
+          <attvalue for="3" value="0.357189211306"/>
+        </attvalues>
+      </edge>
+      <edge id="181" source="52" target="49" weight="0.406971957953">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="49"/>
+          <attvalue for="2" value="52"/>
+          <attvalue for="3" value="0.406971957953"/>
+        </attvalues>
+      </edge>
+      <edge id="182" source="52" target="64" weight="0.385164738915">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="64"/>
+          <attvalue for="2" value="52"/>
+          <attvalue for="3" value="0.385164738915"/>
+        </attvalues>
+      </edge>
+      <edge id="183" source="53" target="26" weight="0.651333190217">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="26"/>
+          <attvalue for="2" value="53"/>
+          <attvalue for="3" value="0.651333190217"/>
+        </attvalues>
+      </edge>
+      <edge id="184" source="53" target="27" weight="0.604489495073">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="27"/>
+          <attvalue for="2" value="53"/>
+          <attvalue for="3" value="0.604489495073"/>
+        </attvalues>
+      </edge>
+      <edge id="185" source="53" target="13" weight="0.707992766531">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="13"/>
+          <attvalue for="2" value="53"/>
+          <attvalue for="3" value="0.707992766531"/>
+        </attvalues>
+      </edge>
+      <edge id="186" source="53" target="7" weight="0.616999865555">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="7"/>
+          <attvalue for="2" value="53"/>
+          <attvalue for="3" value="0.616999865555"/>
+        </attvalues>
+      </edge>
+      <edge id="187" source="54" target="39" weight="0.474731725082">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="39"/>
+          <attvalue for="2" value="54"/>
+          <attvalue for="3" value="0.474731725082"/>
+        </attvalues>
+      </edge>
+      <edge id="188" source="54" target="36" weight="0.405564989976">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="36"/>
+          <attvalue for="2" value="54"/>
+          <attvalue for="3" value="0.405564989976"/>
+        </attvalues>
+      </edge>
+      <edge id="189" source="54" target="51" weight="0.812990115061">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="51"/>
+          <attvalue for="2" value="54"/>
+          <attvalue for="3" value="0.812990115061"/>
+        </attvalues>
+      </edge>
+      <edge id="190" source="55" target="34" weight="0.423705074027">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="34"/>
+          <attvalue for="2" value="55"/>
+          <attvalue for="3" value="0.423705074027"/>
+        </attvalues>
+      </edge>
+      <edge id="191" source="55" target="20" weight="0.356331409938">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="20"/>
+          <attvalue for="2" value="55"/>
+          <attvalue for="3" value="0.356331409938"/>
+        </attvalues>
+      </edge>
+      <edge id="192" source="55" target="8" weight="0.388470841703">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="8"/>
+          <attvalue for="2" value="55"/>
+          <attvalue for="3" value="0.388470841703"/>
+        </attvalues>
+      </edge>
+      <edge id="193" source="55" target="14" weight="0.400524793153">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="14"/>
+          <attvalue for="2" value="55"/>
+          <attvalue for="3" value="0.400524793153"/>
+        </attvalues>
+      </edge>
+      <edge id="194" source="56" target="23" weight="0.480160902964">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="23"/>
+          <attvalue for="2" value="56"/>
+          <attvalue for="3" value="0.480160902964"/>
+        </attvalues>
+      </edge>
+      <edge id="195" source="56" target="12" weight="0.50977061014">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="12"/>
+          <attvalue for="2" value="56"/>
+          <attvalue for="3" value="0.50977061014"/>
+        </attvalues>
+      </edge>
+      <edge id="196" source="56" target="38" weight="0.648569759813">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="38"/>
+          <attvalue for="2" value="56"/>
+          <attvalue for="3" value="0.648569759813"/>
+        </attvalues>
+      </edge>
+      <edge id="197" source="56" target="32" weight="0.629507054421">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="32"/>
+          <attvalue for="2" value="56"/>
+          <attvalue for="3" value="0.629507054421"/>
+        </attvalues>
+      </edge>
+      <edge id="198" source="57" target="23" weight="0.375140101023">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="23"/>
+          <attvalue for="2" value="57"/>
+          <attvalue for="3" value="0.375140101023"/>
+        </attvalues>
+      </edge>
+      <edge id="199" source="57" target="56" weight="0.398402135608">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="56"/>
+          <attvalue for="2" value="57"/>
+          <attvalue for="3" value="0.398402135608"/>
+        </attvalues>
+      </edge>
+      <edge id="200" source="57" target="38" weight="0.376844313836">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="38"/>
+          <attvalue for="2" value="57"/>
+          <attvalue for="3" value="0.376844313836"/>
+        </attvalues>
+      </edge>
+      <edge id="201" source="57" target="32" weight="0.369517516858">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="32"/>
+          <attvalue for="2" value="57"/>
+          <attvalue for="3" value="0.369517516858"/>
+        </attvalues>
+      </edge>
+      <edge id="202" source="58" target="26" weight="0.549790821123">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="26"/>
+          <attvalue for="2" value="58"/>
+          <attvalue for="3" value="0.549790821123"/>
+        </attvalues>
+      </edge>
+      <edge id="203" source="58" target="27" weight="0.50619133858">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="27"/>
+          <attvalue for="2" value="58"/>
+          <attvalue for="3" value="0.50619133858"/>
+        </attvalues>
+      </edge>
+      <edge id="204" source="58" target="13" weight="0.56497032093">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="13"/>
+          <attvalue for="2" value="58"/>
+          <attvalue for="3" value="0.56497032093"/>
+        </attvalues>
+      </edge>
+      <edge id="205" source="58" target="7" weight="0.54694613507">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="7"/>
+          <attvalue for="2" value="58"/>
+          <attvalue for="3" value="0.54694613507"/>
+        </attvalues>
+      </edge>
+      <edge id="206" source="59" target="33" weight="0.490852239218">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="33"/>
+          <attvalue for="2" value="59"/>
+          <attvalue for="3" value="0.490852239218"/>
+        </attvalues>
+      </edge>
+      <edge id="207" source="59" target="8" weight="0.470780690056">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="8"/>
+          <attvalue for="2" value="59"/>
+          <attvalue for="3" value="0.470780690056"/>
+        </attvalues>
+      </edge>
+      <edge id="208" source="59" target="2" weight="0.472641237359">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="2"/>
+          <attvalue for="2" value="59"/>
+          <attvalue for="3" value="0.472641237359"/>
+        </attvalues>
+      </edge>
+      <edge id="209" source="59" target="45" weight="0.541035605957">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="45"/>
+          <attvalue for="2" value="59"/>
+          <attvalue for="3" value="0.541035605957"/>
+        </attvalues>
+      </edge>
+      <edge id="210" source="60" target="1" weight="0.466954527423">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="1"/>
+          <attvalue for="2" value="60"/>
+          <attvalue for="3" value="0.466954527423"/>
+        </attvalues>
+      </edge>
+      <edge id="211" source="60" target="41" weight="0.334187092867">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="41"/>
+          <attvalue for="2" value="60"/>
+          <attvalue for="3" value="0.334187092867"/>
+        </attvalues>
+      </edge>
+      <edge id="212" source="61" target="26" weight="0.688432911973">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="26"/>
+          <attvalue for="2" value="61"/>
+          <attvalue for="3" value="0.688432911973"/>
+        </attvalues>
+      </edge>
+      <edge id="213" source="61" target="53" weight="0.675727541568">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="53"/>
+          <attvalue for="2" value="61"/>
+          <attvalue for="3" value="0.675727541568"/>
+        </attvalues>
+      </edge>
+      <edge id="214" source="61" target="13" weight="0.71887301802">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="13"/>
+          <attvalue for="2" value="61"/>
+          <attvalue for="3" value="0.71887301802"/>
+        </attvalues>
+      </edge>
+      <edge id="215" source="61" target="7" weight="0.643872808323">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="7"/>
+          <attvalue for="2" value="61"/>
+          <attvalue for="3" value="0.643872808323"/>
+        </attvalues>
+      </edge>
+      <edge id="216" source="62" target="6" weight="0.338318279047">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="6"/>
+          <attvalue for="2" value="62"/>
+          <attvalue for="3" value="0.338318279047"/>
+        </attvalues>
+      </edge>
+      <edge id="217" source="62" target="18" weight="0.361032127528">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="18"/>
+          <attvalue for="2" value="62"/>
+          <attvalue for="3" value="0.361032127528"/>
+        </attvalues>
+      </edge>
+      <edge id="218" source="63" target="6" weight="0.359378817879">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="6"/>
+          <attvalue for="2" value="63"/>
+          <attvalue for="3" value="0.359378817879"/>
+        </attvalues>
+      </edge>
+      <edge id="219" source="63" target="33" weight="0.435388150018">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="33"/>
+          <attvalue for="2" value="63"/>
+          <attvalue for="3" value="0.435388150018"/>
+        </attvalues>
+      </edge>
+      <edge id="220" source="63" target="62" weight="0.335236636847">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="62"/>
+          <attvalue for="2" value="63"/>
+          <attvalue for="3" value="0.335236636847"/>
+        </attvalues>
+      </edge>
+      <edge id="221" source="63" target="45" weight="0.433040711754">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="45"/>
+          <attvalue for="2" value="63"/>
+          <attvalue for="3" value="0.433040711754"/>
+        </attvalues>
+      </edge>
+      <edge id="222" source="64" target="22" weight="0.520066291714">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="22"/>
+          <attvalue for="2" value="64"/>
+          <attvalue for="3" value="0.520066291714"/>
+        </attvalues>
+      </edge>
+      <edge id="223" source="64" target="63" weight="0.344767511955">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="63"/>
+          <attvalue for="2" value="64"/>
+          <attvalue for="3" value="0.344767511955"/>
+        </attvalues>
+      </edge>
+      <edge id="224" source="64" target="40" weight="0.404726377766">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="40"/>
+          <attvalue for="2" value="64"/>
+          <attvalue for="3" value="0.404726377766"/>
+        </attvalues>
+      </edge>
+      <edge id="225" source="64" target="52" weight="0.370617852677">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="52"/>
+          <attvalue for="2" value="64"/>
+          <attvalue for="3" value="0.370617852677"/>
+        </attvalues>
+      </edge>
+      <edge id="226" source="65" target="42" weight="0.492443190435">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="42"/>
+          <attvalue for="2" value="65"/>
+          <attvalue for="3" value="0.492443190435"/>
+        </attvalues>
+      </edge>
+      <edge id="227" source="66" target="59" weight="0.421522046124">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="59"/>
+          <attvalue for="2" value="66"/>
+          <attvalue for="3" value="0.421522046124"/>
+        </attvalues>
+      </edge>
+      <edge id="228" source="66" target="31" weight="0.42392968678">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="31"/>
+          <attvalue for="2" value="66"/>
+          <attvalue for="3" value="0.42392968678"/>
+        </attvalues>
+      </edge>
+      <edge id="229" source="66" target="20" weight="0.481073535047">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="20"/>
+          <attvalue for="2" value="66"/>
+          <attvalue for="3" value="0.481073535047"/>
+        </attvalues>
+      </edge>
+      <edge id="230" source="66" target="45" weight="0.548518793162">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="45"/>
+          <attvalue for="2" value="66"/>
+          <attvalue for="3" value="0.548518793162"/>
+        </attvalues>
+      </edge>
+      <edge id="231" source="67" target="33" weight="0.545645752369">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="33"/>
+          <attvalue for="2" value="67"/>
+          <attvalue for="3" value="0.545645752369"/>
+        </attvalues>
+      </edge>
+      <edge id="232" source="67" target="59" weight="0.534016195654">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="59"/>
+          <attvalue for="2" value="67"/>
+          <attvalue for="3" value="0.534016195654"/>
+        </attvalues>
+      </edge>
+      <edge id="233" source="67" target="66" weight="0.784271852745">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="66"/>
+          <attvalue for="2" value="67"/>
+          <attvalue for="3" value="0.784271852745"/>
+        </attvalues>
+      </edge>
+      <edge id="234" source="67" target="45" weight="0.87680728356">
+        <attvalues>
+          <attvalue for="0" value="low"/>
+          <attvalue for="1" value="45"/>
+          <attvalue for="2" value="67"/>
+          <attvalue for="3" value="0.87680728356"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
