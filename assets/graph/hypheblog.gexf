@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2016-12-16">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="attr_status" title="Status" type="string"></attribute>
+      <attribute id="attr_modification" title="Last modification" type="integer"></attribute>
+      <attribute id="attr_indexing" title="Indexing status" type="string"></attribute>
+      <attribute id="attr_crawling" title="Crawling status" type="string"></attribute>
+      <attribute id="attr_home" title="Homepage" type="string"></attribute>
+      <attribute id="attr_hyphe_indegree" title="Hyphe Indegree" type="integer"></attribute>
+      <attribute id="attr_creation" title="Creation" type="integer"></attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="attr_count" title="Hyperlinks Count" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="9b4c3cc5-e649-4f37-828a-e103345012ed" label="2014paris">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481731275"></attvalue>
+          <attvalue for="attr_indexing" value="BATCH_FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://2014paris.blogspot.fr/search/label/Porte%20Dor%C3%A9e"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481711001"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-97.25978" y="-69.51906"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="7284ede6-b520-403e-af8c-56e571efdd76" label="Macsisit">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481731275"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="https://macsisit.blogspot.fr/search/label/R5G"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481711001"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-242.73534" y="-129.52992"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="7cb571e3-0e42-4a81-afc9-560a3ef1c027" label="Le-blog-sam-la-touch.Over-blog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481731218"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://le-blog-sam-la-touch.over-blog.com"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="4"></attvalue>
+          <attvalue for="attr_creation" value="1481711545"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="7.25"></viz:size>
+        <viz:position x="9.588368" y="21.092758"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="bf23d049-bb60-4933-bd2f-76fe67b0de76" label="Paperblog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481752801"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://www.paperblog.fr/jeux/"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="2"></attvalue>
+          <attvalue for="attr_creation" value="1481711603"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="5.75"></viz:size>
+        <viz:position x="-263.66492" y="-139.81235"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="f2927ade-1b12-4df1-b035-15b7734064dc" label="Resistanceinventerre.Wordpress">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481752807"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="https://resistanceinventerre.wordpress.com/2011/12/01/cet-homme-est-un-visionnaire/"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="3"></attvalue>
+          <attvalue for="attr_creation" value="1481712173"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="6.5"></viz:size>
+        <viz:position x="-85.41768" y="132.8104"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="753a6cc0-4b43-4353-9739-63031277575e" label="parolescitoyennes-loupian-bouzigues.Over-Blog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481753376"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://parolescitoyennes-loupian-bouzigues.over-blog.fr/page/190"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481753376"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-17.512106" y="-1.2002974"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="63025f7f-11b6-4e44-87ab-dba386ee47ce" label="regards-citoyens-europe.Over-Blog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481753376"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://regards-citoyens-europe.over-blog.com/archive/2014-02/"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481753376"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-860.8235" y="-1013.10657"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="42ae91e1-c5e3-4c40-9e58-eb18f877f263" label="Nicolebertin">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481753376"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://nicolebertin.blogspot.fr/2016/10/500-000-selenium-medical-pour-le.html"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481753376"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-475.56894" y="1023.36206"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="b00779e8-7830-4ece-a9ba-e14129fe7b0a" label="marin56.Canalblog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481753376"></attvalue>
+          <attvalue for="attr_indexing" value="BATCH_FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://marin56.canalblog.com/archives/2016/08/04/34151988.html#comments"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481753376"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="387.0723" y="1238.602"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="126ad8f8-a9f1-43bc-a9ad-71ccedc557ab" label="ecolonews.Blog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481753376"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://ecolonews.blog.fr"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481753376"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="5.75"></viz:size>
+        <viz:position x="-156.68088" y="-206.58313"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="4105d745-4a9b-454b-97a5-61663658b20d" label="caveatemptor.Unblog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481753376"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://caveatemptor.unblog.fr"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481753376"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-63.69895" y="85.83654"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="ba9dc8cb-ff5b-494b-a454-df21d5d38a68" label="cgtinergygroupeplasticomnium.Over-Blog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481753376"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://cgtinergygroupeplasticomnium.over-blog.com"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="0"></attvalue>
+          <attvalue for="attr_creation" value="1481753376"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="35.39187" y="-1225.4128"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ab67d7d6-809b-4212-8552-0f0bac82ef12" label="lesvertsbagnolet.Over-Blog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481753376"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://lesvertsbagnolet.over-blog.com/archive/2016-06/"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481753376"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="214.35446" y="-55.69071"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="167bfed1-01c7-4e55-8d70-3b68b9500a48" label="Luciennemagaliepons">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481753376"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://luciennemagaliepons.blogspot.fr/2014_05_01_archive.html"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481753376"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-147.65144" y="-185.55196"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="9f12ea9c-1c28-47df-81fe-37bcc59fa341" label="2012a2017">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481753376"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://2012a2017.blogspot.fr/2016/10/sujets-quebecois-cycliques.html#comment-form"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481753376"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="223.56552" y="-16.00995"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="5629dc6d-4e42-4ebe-ac2d-e6daf628bf40" label="Actu-Zak">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481753376"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://actu-zak.blogspot.fr/p/zak-sur-facebook.html"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481753376"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="975.3497" y="693.0592"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="84672fcc-1b8c-4b12-b12f-e1a3c441ba12" label="blogdejocelyne.Canalblog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481753376"></attvalue>
+          <attvalue for="attr_indexing" value="BATCH_CRASHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://blogdejocelyne.canalblog.com/archives/sante_aloe_vera/index.html"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481753376"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-1141.3024" y="394.65164"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="35dac91e-2b50-4f52-b068-789b5504b66a" label="Leblogtvnews">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481754501"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://www.leblogtvnews.com"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="3"></attvalue>
+          <attvalue for="attr_creation" value="1481738868"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="6.5"></viz:size>
+        <viz:position x="-133.81749" y="-153.06693"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="7101608d-fefa-4035-b89a-e894bf4d256c" label="Automobile-propre">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481754599"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://www.automobile-propre.com/stations/carte-stations-gnv-france/"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="4"></attvalue>
+          <attvalue for="attr_creation" value="1481712124"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="7.25"></viz:size>
+        <viz:position x="-208.28467" y="-109.8441"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="1789315c-3d5a-4506-b1fa-aa157ed95739" label="Grafelbergnoticias">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481752739"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://grafelbergnoticias.blogspot.fr/2016/12/ministro-de-agricultura-supervisa.html"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713120"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="1256.3438" y="-202.88475"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="acca6000-41aa-4673-adbf-cbf3e3804313" label="Euro-Mediterranee">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481752739"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://euro-mediterranee.blogspot.fr/2016/12/le-commissaire-hahn-en-tunisie-pour-la.html"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713120"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="219.20526" y="-109.976326"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="2926818f-57a8-43ce-91b4-2f83961bfdfa" label="Koide9enisrael">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481752739"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://koide9enisrael.blogspot.fr/search/label/detournement%20de%20fond"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713121"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-1187.6029" y="-97.54156"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="cbda4e73-ad28-4248-9fcb-d4932dcfadae" label="cyohueso.Wordpress">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481752739"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="https://cyohueso.wordpress.com/comments/feed/"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713120"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-791.39374" y="940.2262"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="4b537d05-3b76-4113-9fdf-bb12724c78a1" label="cocomagnanville.Over-Blog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481752739"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://cocomagnanville.over-blog.com/tag/indigenes%20et%20indiens/"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713120"></attvalue>
+          <attvalue for="modularity_class" value="16"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="51.76792" y="242.96832"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="39ac4eab-3f54-41a1-875b-2c2f4d016962" label="andrenicolas.Centerblog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481752739"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://andrenicolas.centerblog.net/syriza.htm"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713119"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="122.34763" y="-32.100433"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="6cf9645d-dc69-4986-b5ea-3a40e955f000" label="Eurodif-Fo">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481752739"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://www.eurodif-fo.com/archive/2009-01/"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713120"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="897.71094" y="882.2219"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="b535a9d5-67e8-459f-a585-7dbae5ad15c6" label="By-Jipp">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481752739"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://by-jipp.blogspot.fr/2016/10/guerande-une-fillette-de-8-ans-agressee.html"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="3"></attvalue>
+          <attvalue for="attr_creation" value="1481713120"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="6.5"></viz:size>
+        <viz:position x="-74.202965" y="-13.23626"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="7fc558e7-426f-463c-b860-9804a507341d" label="2012un-nouveau-paradigme">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481752796"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://www.2012un-nouveau-paradigme.com/pages/blogs_et_sites_a_decouvrir-8503097.html"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="5"></attvalue>
+          <attvalue for="attr_creation" value="1481711496"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-37.805527" y="100.86539"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="1ba2026d-98d1-406f-be09-b25a3df02a94" label="Pdfbretagne">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481753104"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://pdfbretagne.blogspot.fr/2016_09_01_archive.html"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481753065"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-99.07253" y="-19.52561"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="b87ab5db-05ff-454f-acc9-67ea7b69fb9f" label="rioplus20nausicaa.Wordpress">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481753673"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="https://rioplus20nausicaa.wordpress.com"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="0"></attvalue>
+          <attvalue for="attr_creation" value="1481753376"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="726.2451" y="-1056.8428"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="64f210e1-534f-4e1d-9fe4-8898c4b3e4c6" label="Lezappingdupaf">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481753673"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://www.lezappingdupaf.com"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481753376"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-1.9278384" y="1229.7037"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="b0fb54ec-9d19-4784-8305-51c1b7081d6c" label="Skyfall">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481753673"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://www.skyfall.fr"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="0"></attvalue>
+          <attvalue for="attr_creation" value="1481753376"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="1159.2053" y="4.770465"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="7ed2f75e-c6a2-498d-bcce-89f9738b0479" label="Echelledejacob.Blogspot">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481754624"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://echelledejacob.blogspot.fr"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="5"></attvalue>
+          <attvalue for="attr_creation" value="1481712053"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-130.82826" y="92.08049"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="4dec7de6-e658-4d11-ad88-2996f313ab02" label="Canempechepasnicolas.Over-blog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481755806"></attvalue>
+          <attvalue for="attr_indexing" value="BATCH_FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://canempechepasnicolas.over-blog.com/2016/12/syrie-l-alarme-des-crocodiles.html"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="3"></attvalue>
+          <attvalue for="attr_creation" value="1481712051"></attvalue>
+          <attvalue for="modularity_class" value="16"></attvalue>
+        </attvalues>
+        <viz:size value="6.5"></viz:size>
+        <viz:position x="44.860573" y="223.08292"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="44f85efb-3550-4a37-96e0-7f86b88eab95" label="fdgdelamontagne.Over-Blog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481711001"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://fdgdelamontagne.over-blog.com/page/300"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481711001"></attvalue>
+          <attvalue for="modularity_class" value="17"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-629.12585" y="-1153.8276"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="91eb3530-eab0-4568-801e-1f61bac484a4" label="cmmphotosvideospresses.Eklablog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481711001"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://cmmphotosvideospresses.eklablog.com/culture-angola-document-a127791696"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481711001"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="82.67512" y="5.9275827"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="db8d7590-b765-41d3-8938-0903482602b9" label="Endehors">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481711001"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://endehors.net/news/12776.shtml"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481711001"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="36.124023" y="-125.090195"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="856c691c-fe1e-4b2c-9a63-ee49cda148c2" label="reflexionsnouvelles.Tumblr">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481711002"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://reflexionsnouvelles.tumblr.com/archive/2015/8"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481711002"></attvalue>
+          <attvalue for="modularity_class" value="18"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-211.89313" y="-1242.9539"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="e6388042-c3a4-44ce-abb2-73265fc8d618" label="Fdgloiretouraine">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481711001"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://fdgloiretouraine.com"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481711001"></attvalue>
+          <attvalue for="modularity_class" value="19"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-1137.6594" y="603.00494"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="97977acd-7f5b-4df7-8e16-c29df785a26c" label="serpent-libertaire.Over-Blog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481711002"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://serpent-libertaire.over-blog.com/archive/2015-06/"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481711002"></attvalue>
+          <attvalue for="modularity_class" value="20"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="147.37595" y="1297.9529"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="5d864889-2d1e-4228-9a13-d070364d264f" label="tecsol.Blogs">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481711002"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://tecsol.blogs.com"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="2"></attvalue>
+          <attvalue for="attr_creation" value="1481711002"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="5.75"></viz:size>
+        <viz:position x="201.81262" y="-126.03105"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="73a5fb37-345b-45a3-8508-738309092f6e" label="ns2017.Wordpress">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481711471"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="https://ns2017.wordpress.com"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="2"></attvalue>
+          <attvalue for="attr_creation" value="1481711002"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="5.75"></viz:size>
+        <viz:position x="81.708115" y="103.81597"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="0abeb588-8ca1-45b9-8107-008e2a5154cb" label="Leblogdygrec">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481712169"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://leblogdygrec.blogspot.fr/2016_03_01_archive.html"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481711001"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="21.005535" y="46.230583"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="0074a4db-3d5d-4dbb-b9b8-aa32b9b0b05a" label="democratie-reelle-nimes.Over-Blog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481712169"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://democratie-reelle-nimes.over-blog.com/tag/ukraine/"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481711001"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="93.976425" y="-167.7706"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="37dcb35b-1492-4640-b688-5eb1b5ad5a4e" label="gbessay.Unblog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481712169"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://gbessay.unblog.fr/2016/09/12/terrorisme-un-mineur-de-15-ans-soupconne/"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481711001"></attvalue>
+          <attvalue for="modularity_class" value="21"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-1283.903" y="-199.91685"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="f0424211-ba7c-4e60-b177-4eb32bc8f85e" label="Lesmoutonsenrages">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481712169"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://lesmoutonsenrages.fr"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="9"></attvalue>
+          <attvalue for="attr_creation" value="1481711001"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="11.0"></viz:size>
+        <viz:position x="-53.017204" y="43.679"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="184dec4a-9b9f-4d6f-a135-1a5a94f9f43a" label="zehub.Tumblr">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481712169"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://zehub.tumblr.com/archive"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481711002"></attvalue>
+          <attvalue for="modularity_class" value="22"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-229.13756" y="1112.7302"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="6dc7ddb1-3842-4fa1-a09e-404fc461b487" label="blogs.Mediapart">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481712169"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="https://blogs.mediapart.fr/jean-marie-gumy"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="21"></attvalue>
+          <attvalue for="attr_creation" value="1481711001"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="49.743546" y="-44.525818"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="b274721d-95db-4a21-9f95-18f8a663c3f4" label="boycottworld.Wordpress">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481712777"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="https://boycottworld.wordpress.com/servitude/"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="2"></attvalue>
+          <attvalue for="attr_creation" value="1481711001"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="5.75"></viz:size>
+        <viz:position x="8.8224125" y="117.410164"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="6b18c5d7-55c0-4e67-91ec-0d6d6e494e06" label="Boris-Victor">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481712777"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://boris-victor.blogspot.fr/2016/12/attentat-de-nice-onze-personnes.html"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481711001"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="65.490555" y="-144.87427"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="dbef049e-2c7a-4f90-82c3-b77ff8630bd8" label="raimanet.Wordpress">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481712777"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="https://raimanet.wordpress.com"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="2"></attvalue>
+          <attvalue for="attr_creation" value="1481711002"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="5.75"></viz:size>
+        <viz:position x="42.778107" y="77.02955"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="20f59610-9490-45d6-aad0-540d095c3d61" label="danactu-resistance.Over-Blog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713120"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://danactu-resistance.over-blog.com/page/605"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713120"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="7.282584" y="-77.470055"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="fd929d8c-63f3-4e09-b91a-4b54ae0fa55c" label="bettembourg.Skyrock">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713119"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://bettembourg.skyrock.com"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713119"></attvalue>
+          <attvalue for="modularity_class" value="24"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-484.59952" y="1225.6926"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="fcf37767-f547-4e45-b45e-a6914a17587d" label="fraternite-ofs-sherb.Eklablog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713120"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://fraternite-ofs-sherb.eklablog.com/ofs-15-mai-14-les-articles-recents-n247504"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713120"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="486.04074" y="-1177.7173"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="6e21d939-9508-4844-8f52-e6febd198e62" label="mes-billets-d-humeur.Over-Blog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713121"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://mes-billets-d-humeur.over-blog.com/top/10"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713121"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="168.30211" y="-80.42093"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="eccf74b3-aa8c-4e88-a9c7-369cb16bd685" label="mouvementcommuniste.Over-Blog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713121"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://mouvementcommuniste.over-blog.com/contact"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713121"></attvalue>
+          <attvalue for="modularity_class" value="26"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="1016.5257" y="-867.26843"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="43a3a266-82e6-4e6d-b1aa-6b5bdafb23f3" label="therese-zrihen-dvir.Over-Blog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713121"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://therese-zrihen-dvir.over-blog.com/tag/riposte%20laique/100"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713121"></attvalue>
+          <attvalue for="modularity_class" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="1075.338" y="-669.7695"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ff3fc6a0-1411-4745-b17f-1f4a6cd41937" label="objectifterre.Over-Blog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713121"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://objectifterre.over-blog.org"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713121"></attvalue>
+          <attvalue for="modularity_class" value="28"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="253.84628" y="-1248.1564"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="415be08f-bfef-4201-a313-230c4777ae40" label="onsbouge.Unblog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713121"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://onsbouge.unblog.fr/2016/12/13/vive-la-culture-israelienne/"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713121"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="262.8993" y="-89.63629"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="eeda7240-5e66-451b-986c-6407c083067e" label="npa29.Unblog">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713121"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://npa29.unblog.fr/2016/07/07/un-peu-de-feminisme/#respond"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713121"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="2.0535316" y="-112.528404"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="020299fd-bdfa-4302-9b34-da96df7eb597" label="Patchouly-Box">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713743"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://patchouly-box.blogspot.fr/2016/12/et-un-de-plus-mais-cest-du-nimporte-quoi.html"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713121"></attvalue>
+          <attvalue for="modularity_class" value="29"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-216.20517" y="1303.1537"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="98c4e627-6961-4954-a723-06861d22988c" label="1000celebritesdelareunion">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713743"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://1000celebritesdelareunion.blogspot.fr"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713119"></attvalue>
+          <attvalue for="modularity_class" value="30"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-881.6321" y="-853.5685"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="97e047dc-fdb4-4e88-9ab7-80f79d78a28f" label="Cop21-Flammedafrique">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713743"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://cop21-flammedafrique.blogspot.fr"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713120"></attvalue>
+          <attvalue for="modularity_class" value="31"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-1041.5667" y="890.0147"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="6267d941-c33a-49b7-a8b4-f6ebd0f5cb1d" label="Voituredufutur">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713743"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://voituredufutur.blogspot.fr/search/label/capteurs"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713121"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-254.2016" y="-92.73832"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="94509ffa-2a9a-4b88-9989-2d0ab370a582" label="Amisdupg">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713743"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://amisdupg.blogspot.fr/2016/12/esperons.html"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713119"></attvalue>
+          <attvalue for="modularity_class" value="32"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-732.6061" y="1132.925"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="4541602f-ce9c-4ffb-b091-dcf2e9aaa051" label="jeanchristophedelhaye.Wordpress">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713743"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="https://jeanchristophedelhaye.wordpress.com/category/abeille/"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713120"></attvalue>
+          <attvalue for="modularity_class" value="33"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="1322.8527" y="121.558754"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="bddb24b5-9a16-42fe-b061-269474d70763" label="Aucoeurdunationalisme">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713743"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://aucoeurdunationalisme.blogspot.fr/2016/12/un-grand-bravo-martina-chyba.html#links"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="1"></attvalue>
+          <attvalue for="attr_creation" value="1481713119"></attvalue>
+          <attvalue for="modularity_class" value="34"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="521.49396" y="1112.8833"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="fa706201-b71c-436f-ae2b-668123220cdd" label="Augustinmassin">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713743"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="https://augustinmassin.blogspot.fr"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="0"></attvalue>
+          <attvalue for="attr_creation" value="1481713119"></attvalue>
+          <attvalue for="modularity_class" value="35"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-413.22568" y="-1179.3474"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="dcdd483a-ff45-4211-b12e-fd38aa4eeabc" label="Tsahmedi">
+        <attvalues>
+          <attvalue for="attr_status" value="IN"></attvalue>
+          <attvalue for="attr_modification" value="1481713743"></attvalue>
+          <attvalue for="attr_indexing" value="FINISHED"></attvalue>
+          <attvalue for="attr_crawling" value="FINISHED"></attvalue>
+          <attvalue for="attr_home" value="http://tsahmedi.blogspot.fr"></attvalue>
+          <attvalue for="attr_hyphe_indegree" value="0"></attvalue>
+          <attvalue for="attr_creation" value="1481713121"></attvalue>
+          <attvalue for="modularity_class" value="36"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="1208.5984" y="300.82162"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="b535a9d5-67e8-459f-a585-7dbae5ad15c6" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="b535a9d5-67e8-459f-a585-7dbae5ad15c6" target="7cb571e3-0e42-4a81-afc9-560a3ef1c027">
+        <attvalues>
+          <attvalue for="attr_count" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="b535a9d5-67e8-459f-a585-7dbae5ad15c6" target="f0424211-ba7c-4e60-b177-4eb32bc8f85e">
+        <attvalues>
+          <attvalue for="attr_count" value="43"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="b535a9d5-67e8-459f-a585-7dbae5ad15c6" target="7ed2f75e-c6a2-498d-bcce-89f9738b0479">
+        <attvalues>
+          <attvalue for="attr_count" value="25"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="20f59610-9490-45d6-aad0-540d095c3d61" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="9b4c3cc5-e649-4f37-828a-e103345012ed" target="b535a9d5-67e8-459f-a585-7dbae5ad15c6">
+        <attvalues>
+          <attvalue for="attr_count" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="9b4c3cc5-e649-4f37-828a-e103345012ed" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="261"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="9b4c3cc5-e649-4f37-828a-e103345012ed" target="35dac91e-2b50-4f52-b068-789b5504b66a">
+        <attvalues>
+          <attvalue for="attr_count" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="9b4c3cc5-e649-4f37-828a-e103345012ed" target="f0424211-ba7c-4e60-b177-4eb32bc8f85e">
+        <attvalues>
+          <attvalue for="attr_count" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="9b4c3cc5-e649-4f37-828a-e103345012ed" target="7101608d-fefa-4035-b89a-e894bf4d256c">
+        <attvalues>
+          <attvalue for="attr_count" value="11"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="415be08f-bfef-4201-a313-230c4777ae40" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="207"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="ab67d7d6-809b-4212-8552-0f0bac82ef12" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="12" source="39ac4eab-3f54-41a1-875b-2c2f4d016962" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="46"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="13" source="eeda7240-5e66-451b-986c-6407c083067e" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="14" source="9f12ea9c-1c28-47df-81fe-37bcc59fa341" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="19"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="15" source="7cb571e3-0e42-4a81-afc9-560a3ef1c027" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="25"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="16" source="f0424211-ba7c-4e60-b177-4eb32bc8f85e" target="7ed2f75e-c6a2-498d-bcce-89f9738b0479">
+        <attvalues>
+          <attvalue for="attr_count" value="133"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="17" source="f0424211-ba7c-4e60-b177-4eb32bc8f85e" target="7fc558e7-426f-463c-b860-9804a507341d">
+        <attvalues>
+          <attvalue for="attr_count" value="133"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="18" source="f0424211-ba7c-4e60-b177-4eb32bc8f85e" target="f2927ade-1b12-4df1-b035-15b7734064dc">
+        <attvalues>
+          <attvalue for="attr_count" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="19" source="f0424211-ba7c-4e60-b177-4eb32bc8f85e" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="13"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="20" source="4b537d05-3b76-4113-9fdf-bb12724c78a1" target="4dec7de6-e658-4d11-ad88-2996f313ab02">
+        <attvalues>
+          <attvalue for="attr_count" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="21" source="acca6000-41aa-4673-adbf-cbf3e3804313" target="5d864889-2d1e-4228-9a13-d070364d264f">
+        <attvalues>
+          <attvalue for="attr_count" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="22" source="acca6000-41aa-4673-adbf-cbf3e3804313" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="23" source="0abeb588-8ca1-45b9-8107-008e2a5154cb" target="f0424211-ba7c-4e60-b177-4eb32bc8f85e">
+        <attvalues>
+          <attvalue for="attr_count" value="225"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="24" source="0abeb588-8ca1-45b9-8107-008e2a5154cb" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="19"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="25" source="0abeb588-8ca1-45b9-8107-008e2a5154cb" target="7fc558e7-426f-463c-b860-9804a507341d">
+        <attvalues>
+          <attvalue for="attr_count" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="26" source="0abeb588-8ca1-45b9-8107-008e2a5154cb" target="7cb571e3-0e42-4a81-afc9-560a3ef1c027">
+        <attvalues>
+          <attvalue for="attr_count" value="58"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="27" source="6b18c5d7-55c0-4e67-91ec-0d6d6e494e06" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="28" source="7284ede6-b520-403e-af8c-56e571efdd76" target="7101608d-fefa-4035-b89a-e894bf4d256c">
+        <attvalues>
+          <attvalue for="attr_count" value="13"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="29" source="7284ede6-b520-403e-af8c-56e571efdd76" target="bf23d049-bb60-4933-bd2f-76fe67b0de76">
+        <attvalues>
+          <attvalue for="attr_count" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="30" source="db8d7590-b765-41d3-8938-0903482602b9" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="31" source="7fc558e7-426f-463c-b860-9804a507341d" target="f0424211-ba7c-4e60-b177-4eb32bc8f85e">
+        <attvalues>
+          <attvalue for="attr_count" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="32" source="1ba2026d-98d1-406f-be09-b25a3df02a94" target="b535a9d5-67e8-459f-a585-7dbae5ad15c6">
+        <attvalues>
+          <attvalue for="attr_count" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="33" source="6267d941-c33a-49b7-a8b4-f6ebd0f5cb1d" target="7101608d-fefa-4035-b89a-e894bf4d256c">
+        <attvalues>
+          <attvalue for="attr_count" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="34" source="0074a4db-3d5d-4dbb-b9b8-aa32b9b0b05a" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="277"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="35" source="6e21d939-9508-4844-8f52-e6febd198e62" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="36" source="753a6cc0-4b43-4353-9739-63031277575e" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="108"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="37" source="753a6cc0-4b43-4353-9739-63031277575e" target="f0424211-ba7c-4e60-b177-4eb32bc8f85e">
+        <attvalues>
+          <attvalue for="attr_count" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="38" source="b274721d-95db-4a21-9f95-18f8a663c3f4" target="7fc558e7-426f-463c-b860-9804a507341d">
+        <attvalues>
+          <attvalue for="attr_count" value="23"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="39" source="b274721d-95db-4a21-9f95-18f8a663c3f4" target="f0424211-ba7c-4e60-b177-4eb32bc8f85e">
+        <attvalues>
+          <attvalue for="attr_count" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="40" source="b274721d-95db-4a21-9f95-18f8a663c3f4" target="f2927ade-1b12-4df1-b035-15b7734064dc">
+        <attvalues>
+          <attvalue for="attr_count" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="41" source="b274721d-95db-4a21-9f95-18f8a663c3f4" target="7cb571e3-0e42-4a81-afc9-560a3ef1c027">
+        <attvalues>
+          <attvalue for="attr_count" value="13"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="42" source="b274721d-95db-4a21-9f95-18f8a663c3f4" target="dbef049e-2c7a-4f90-82c3-b77ff8630bd8">
+        <attvalues>
+          <attvalue for="attr_count" value="397"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="43" source="b274721d-95db-4a21-9f95-18f8a663c3f4" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="15"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="b274721d-95db-4a21-9f95-18f8a663c3f4" target="7ed2f75e-c6a2-498d-bcce-89f9738b0479">
+        <attvalues>
+          <attvalue for="attr_count" value="21"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="b274721d-95db-4a21-9f95-18f8a663c3f4" target="4dec7de6-e658-4d11-ad88-2996f313ab02">
+        <attvalues>
+          <attvalue for="attr_count" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="46" source="4105d745-4a9b-454b-97a5-61663658b20d" target="f0424211-ba7c-4e60-b177-4eb32bc8f85e">
+        <attvalues>
+          <attvalue for="attr_count" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="4105d745-4a9b-454b-97a5-61663658b20d" target="7fc558e7-426f-463c-b860-9804a507341d">
+        <attvalues>
+          <attvalue for="attr_count" value="82"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="48" source="167bfed1-01c7-4e55-8d70-3b68b9500a48" target="126ad8f8-a9f1-43bc-a9ad-71ccedc557ab">
+        <attvalues>
+          <attvalue for="attr_count" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="49" source="167bfed1-01c7-4e55-8d70-3b68b9500a48" target="35dac91e-2b50-4f52-b068-789b5504b66a">
+        <attvalues>
+          <attvalue for="attr_count" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="50" source="91eb3530-eab0-4568-801e-1f61bac484a4" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="f2927ade-1b12-4df1-b035-15b7734064dc" target="7ed2f75e-c6a2-498d-bcce-89f9738b0479">
+        <attvalues>
+          <attvalue for="attr_count" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="dbef049e-2c7a-4f90-82c3-b77ff8630bd8" target="b274721d-95db-4a21-9f95-18f8a663c3f4">
+        <attvalues>
+          <attvalue for="attr_count" value="811"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="53" source="dbef049e-2c7a-4f90-82c3-b77ff8630bd8" target="6dc7ddb1-3842-4fa1-a09e-404fc461b487">
+        <attvalues>
+          <attvalue for="attr_count" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="54" source="dbef049e-2c7a-4f90-82c3-b77ff8630bd8" target="f0424211-ba7c-4e60-b177-4eb32bc8f85e">
+        <attvalues>
+          <attvalue for="attr_count" value="11"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="55" source="dbef049e-2c7a-4f90-82c3-b77ff8630bd8" target="73a5fb37-345b-45a3-8508-738309092f6e">
+        <attvalues>
+          <attvalue for="attr_count" value="3"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
