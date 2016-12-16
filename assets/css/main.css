@@ -2744,6 +2744,10 @@ input[type="submit"].disabled, input[type="submit"]:disabled,
   margin-bottom: 0;
 }
 
+.tiles article.style7 {
+	width: 100%;
+}
+
 .tiles article.style1 > .image:before {
   background-color: #FFC107;
 }
