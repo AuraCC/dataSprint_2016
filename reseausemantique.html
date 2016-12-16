@@ -1,15 +1,9 @@
 <!DOCTYPE HTML>
-<!--
-	Phantom by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
   <head>
-    <title>Analyse</title>
+    <title>Réseau Sémantique</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" type="image/svg" href="images/logo.svg" />
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
       <!--[if lte IE 8]>
       <script src="assets/js/ie/html5shiv.js"></script>
@@ -54,71 +48,234 @@
               <li>
                 <a href="index.html">
                   <i class="fa fa-home fa-fw" aria-hidden="true"></i>&nbspAccueil
+              
                 </a>
               </li>
               <li>
-                <a href="methodo.html">
-                  <i class="fa fa-wrench fa-fw" aria-hidden="true"></i>&nbspMéthodologie
+                <a href="demarche.html.html">
+                  <i class="fa fa-book fa-fw" aria-hidden="true"></i>&nbspNotre démarche
+              
                 </a>
               </li>
               <li>
                 <a href="outils.html">
-                  <i class="fa fa-book fa-fw" aria-hidden="true"></i>
-&nbspRessources utilisées
+                  <i class="fa fa-wrench fa-fw" aria-hidden="true"></i>
+&nbspOutils mobilisés
+              
                 </a>
               </li>
               <li>
-                <a href="analyse.html">
-                  <i class="fa fa-line-chart fa-fw" aria-hidden="true"></i>&nbspAnalyse
+                <a href="evolution.html">
+                  <i class="fa fa-line-chart fa-fw" aria-hidden="true"></i>&nbspÉvolution
+              
                 </a>
               </li>
               <li>
-                <a href="elements.html">
-                  <i class="fa fa-question-circle fa-fw" aria-hidden="true"></i>&nbspQui sommes-nous
+                <a href="blogosphere.html">
+                  <i class="fa fa-bullhorn fa-fw" aria-hidden="true"></i>&nbspBlogosphère politique
+              
                 </a>
               </li>
+              <li>
+                <a href="reseaudesacteurs.html">
+                  <i class="fa fa-users fa-fw" aria-hidden="true"></i>&nbspRéseau des acteurs
+              
+                </a>
+              </li>
+			  <li>
+                <a href="reseausemantique.html">
+                  <i class="fa fa-link" aria-hidden="true"></i>&nbspRéseau sémantique
+              
+                </a>
+              </li>
+              <li>
+                <a href="conclusion.html">
+                  <i class="fa fa-question-circle fa-fw" aria-hidden="true"></i>&nbspConclusion
+                </a>
+              </li>
+
             </ul>
           </nav>
           <!-- Main -->
           <div id="main">
             <div class="inner">
-              <h1>Generic Page</h1>
               <span class="image main">
-                <img src="images/ecology.jpg" alt="" />
+                <img src="images/semantique.jpg" alt="" />
               </span>
-              <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel venenatis mauris vehicula hendrerit.</p>
-              <div class="row uniform">
-                <div class="4u">
-                  <span class="image fit" data-featherlight="images/pic01.jpg">
-                    <img src="images/pic01.jpg" alt="" />
-                  </span>
-                </div>
-                <div class="4u">
-                  <span class="image fit" data-featherlight="images/pic02.jpg">
-                    <img src="images/pic02.jpg" alt="" />
-                  </span>
-                </div>
-                <div class="4u$">
-                  <span class="image fit" data-featherlight="images/pic03.jpg">
-                    <img src="images/pic03.jpg" alt="" />
-                  </span>
-                </div>
-              </div>
-              <br>
-                <h2>Placeholder text</h2>
-                <p>
-                  <span class="image left">
-                    <img src="images/pic14.jpg" alt="" data-featherlight="images/pic14.jpg"/>
-                  </span>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
-                </p>
+              <h1>Réseau sémantique</h1>
+              <h2>Réseau sémantique de la COP 21</h2>
+              <section>
+                 <div class="row uniform">
+                   <div class="12u$">
+                     <div class="graph" style="border : 1px solid black; height : 600px" id="sigma-container" data-featherlight=".graph"></div>
+                     <script src="assets/build/sigma.js"></script>
+                     <script src="assets/build/plugins/sigma.parsers.gexf.min.js"></script>
+                     <script>
+                       sigma.parsers.gexf(
+                        'assets/graph/cop21rs.gexf',
+                         { // Here is the ID of the DOM element that
+                           // will contain the graph:
+                           container: 'sigma-container'
+                         },
+                         function(s) {
+                           // This function will be executed when the
+                           // graph is displayed, with "s" the related
+                           // sigma instance.
+                         }
+                       );
+                     </script>
+                            
+                   </div>
+                 </div>
+               </section>
+               <br>
+<p>Cluster bleu: les different parties politique francais –front national-contre
+
+cop21(marine le pen)-extreme droite-partie socialiste-
+
+Les evenement different dans la period de cop 21:attaentat de paris-
+
+manifestations-le loi de travail par Myriam el khomri minister de travail-
+
+hommage aux victim des attentat de paris-un grand cluster qui parle sur les
+
+acteurs politique de france par rapport la conference climatique COP21.nous
+
+avons Aussi qui parle de la politique climatiques de Arabie saoudite.
+
+Nous voyons un autre cluster qui parle plutot sur le changement climatique et
+
+augmentation des temperateur, gaz a effet de serre, rechauffement climatique
+
+Et les personages qui ont fait qq chose pour ameliorer le problem climatique
+
+comme par exemple la foundation Nicolas Hulot avec l’objectif : modifier les
+
+comportements individuels et collectifs pour préserver le planète!
+
+Nous avons un autre cluster qui parle les perssonages politique comme
+
+Barack Obama Ban ki-moon qui etaient vraiment efficace pa rapport de
+
+d’accord de Paris COP21</p>
+<h2>Réseau sémantique de la COP 22</h2>
+<section>
+                 <div class="row uniform">
+                   <div class="12u$">
+                     <div class="graph" style="border : 1px solid black; height : 600px" id="sigma-container2" data-featherlight=".graph"></div>
+                     <script src="assets/build/sigma.js"></script>
+                     <script src="assets/build/plugins/sigma.parsers.gexf.min.js"></script>
+                     <script>
+                       sigma.parsers.gexf(
+                        'assets/graph/cop22rs.gexf',
+                         { // Here is the ID of the DOM element that
+                           // will contain the graph:
+                           container: 'sigma-container2'
+                         },
+                         function(s) {
+                           // This function will be executed when the
+                           // graph is displayed, with "s" the related
+                           // sigma instance.
+                         }
+                       );
+                     </script>
+                            
+                   </div>
+                 </div>
+               </section>
+               <br>
+<p>La conference COP22 de Marrakech sur le réchauffement climatique du 7 au
+
+18 novembre 2016.
+
+Cluster concernant de l’impact du changement climatique avec tt les element
+
+important
+
+Election de Donald Trump qui avais une grand effet sur COP22
+
+COP22 est plutot parle sur le probleme de changement climatique et les
+
+cause de cette phenomen Pétrol et du gaz de schist, gaz a effet de serre
+
+Et après nous avons les point sur l’ammelioration et diminuer ce proleme
+
+réchauffement climatique comme utilizer le developpement durable
+
+On a le nom Salaheddine Mezouar le president de la cop22
+
+Aussi nous voyons les personage espagnol …</p>
+<h2>Reseaux TERM TERM PERIOD cop21 et cop22</h2>
+<section>
+                 <div class="row uniform">
+                   <div class="12u$">
+                     <div class="graph" style="border : 1px solid black; height : 600px" id="sigma-container3" data-featherlight=".graph"></div>
+                     <script src="assets/build/sigma.js"></script>
+                     <script src="assets/build/plugins/sigma.parsers.gexf.min.js"></script>
+                     <script>
+                       sigma.parsers.gexf(
+                        'assets/graph/cop2122rs.gexf',
+                         { // Here is the ID of the DOM element that
+                           // will contain the graph:
+                           container: 'sigma-container3'
+                         },
+                         function(s) {
+                           // This function will be executed when the
+                           // graph is displayed, with "s" the related
+                           // sigma instance.
+                         }
+                       );
+                     </script>
+                            
+                   </div>
+                 </div>
+               </section>
+               <br>
+<p>la carte qui est mélange les deux base de donnees vous voyez deux period
+
+different une period de cop21 du 30 novembre au 12 décembre 2015 qui est
+
+en color bleu et la partie qui est indique en rouge concernant de cop22 du 07
+
+Nov au 18 Nov 2016.
+
+Cluster les parti politique plutot la partie extreme droit et front national
+
+Ce qui est important dans la cop21 c’est plutot les attentat de paris qui a
+
+vraiment influence
+
+Manifestations durant la COP21
+
+COP21 est tres centree sur l’actualité
+
+Cluster vert clair : il parle plutot sur la liberté et lutter contre la terroriste
+
+Cluster violet il parle de l’etat d’urgence
+
+Cluster vert foncé il explique qui est lié a
+
+Cluster concernant de la parite extreme droite et front national
+
+Cluster
+
+COP22 est aussi centree sur l’actualité (election de trump) mais aussi sur le
+
+sujet de l’accord et le rechauffement climatique
+
+Cluster rouge ca concerne de l’activistesd’extreme-gauche</p>
+ <ul class="actions">
+										
+										<li><a href="blogosphere.html" class="button"><i class="fa fa-arrow-left fa-fw" aria-hidden="true"></i>&nbspBlogosphère politique</a></li>
+										<li><a href="reseaudesacteurs.html" class="button special">Réseau des acteurs&nbsp<i class="fa fa-arrow-right fa-fw" aria-hidden="true"></i></a></li>
+									</ul>
               </div>
             </div>
             <!-- Footer -->
             <footer id="footer">
               <div class="inner">
                 <ul class="copyright">
-                  <img src="images/trump.png">
+                  <img src="images/logo.png">
                     <li>&copy; NUMI et CMW. All rights reserved</li>
                     <li>Design par Camille Clément et Pierre Crochart.
                     </a>
