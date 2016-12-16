@@ -196,7 +196,7 @@
 				});
 			$( "#menu li > a" ).hover(
   function() {
-    $( this ).css("font-size", "1.2em");
+    $( this ).css("font-size", "1.1em");
   }, function() {
     $( this ).css("font-size", "1em");
   }
